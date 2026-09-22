@@ -1,7 +1,15 @@
 export type Genre = 'romans' | 'dark romans' | 'fantasy' | 'thriller' | 'kryminał' | 'literatura piękna' | 'young adult' | 'science fiction' | 'horror' | 'literatura faktu' | 'inne'
 export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; cover: string; publisherUrl: string; series?: string; volume?: number }
-export const genres: Genre[] = ['romans','dark romans','fantasy','thriller','kryminał','literatura piękna','young adult','science fiction','horror','literatura faktu','inne']
-export const publishers = ['Wydawnictwo Poznańskie','Wydawnictwo Albatros','Wydawnictwo Jaguar','Wydawnictwo NieZwykłe','Wydawnictwo NieZwykłe Zagraniczne','Czwarta Strona','Znak Literanova','Moondrive','Uroboros']
+export const genres: Genre[] = ['dark romans','fantasy','horror','inne','kryminał','literatura faktu','literatura piękna','romans','science fiction','thriller','young adult']
+export const publishers = [
+ 'Wydawnictwo Poznańskie','Wydawnictwo Albatros','Wydawnictwo Jaguar','Wydawnictwo NieZwykłe','Wydawnictwo NieZwykłe Zagraniczne','Czwarta Strona','Znak Literanova','Moondrive','Uroboros',
+ 'W.A.B.','Agora','Wydawnictwo Literackie','Wydawnictwo KDW','Marginesy','Prószyński i S-ka','Muza','Filia','Hype','Otwarte','SQN','Insignis','Fabryka Słów','MAG','Vesper','Czarne','Sonia Draga','Kobiece','Young','BeYA','Papierowe Serca','You&YA','Must Read','SeeYA','We Need YA','Świat Książki','Zysk i S-ka','Poradnia K'
+].sort((a,b)=>a.localeCompare(b,'pl'))
+
+const genreClasses: Record<Genre,string> = {
+ 'romans':'genre-romans','dark romans':'genre-dark-romans','fantasy':'genre-fantasy','thriller':'genre-thriller','kryminał':'genre-kryminal','literatura piękna':'genre-literatura-piekna','young adult':'genre-young-adult','science fiction':'genre-science-fiction','horror':'genre-horror','literatura faktu':'genre-literatura-faktu','inne':'genre-inne'
+}
+export const genreClass = (genre: Genre) => genreClasses[genre]
 
 type Source = 'p' | 'a'
 function entry(source: Source, slug: string, title: string, author: string, releaseDate: string, genre: Genre, description: string, series?: string, volume?: number): Book {

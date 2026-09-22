@@ -84,3 +84,60 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 @media(max-width:1100px){.section-wrap{margin-left:5%;margin-right:5%}.hero h1{font-size:clamp(52px,6.1vw,78px)}}
 @media(max-width:760px){.hero{display:flex;flex-direction:column;min-height:420px;padding:52px 6% 40px}.hero::after{right:-10%;bottom:0;width:115%;height:300px;opacity:.13}.hero-copy{padding-right:0}.hero h1{font-size:clamp(48px,10.5vw,72px);margin-bottom:24px}.stats{padding:20px 5%}.stats strong{font-size:23px}.stats span{font-size:11px}.upcoming{padding-top:65px}.section-heading h2{font-size:35px}.book-card h3{font-size:18px}.month-navigation h3{font-size:24px}.mobile-filter-button{border-color:#cec7e6;color:#513798}.mobile-filter-button span{background:#d9caff}.apply-filters{background:#1a2851}.filters-panel{background:#fff}.modal-actions{flex-direction:column}.modal-actions>*{width:100%}}
 @media(max-width:480px){.hero h1{font-size:clamp(44px,11.5vw,58px)}.hero::after{right:-27%;width:140%;height:300px;opacity:.11}.stats{gap:3px}.stats>div{gap:3px}.stats strong{font-size:20px}.stats span{font-size:10px}.section-heading h2{font-size:31px}}
+
+/* Fantasy reading room: stronger calendar colours and a compact mobile grid. */
+main{background:#f9f9fd url('/literary-fantasy-pattern.svg') center 610px/1200px auto repeat-y}
+.top-content{background-color:#111b38;background-image:none}
+.upcoming:before,.calendar-section:before{display:none}
+.publishers-stack{max-height:340px}
+
+.genre-romans{--genre:#d63384;--genre-soft:#fde4f0;--genre-ink:#7b1748}
+.genre-dark-romans{--genre:#d52837;--genre-soft:#ffe1e3;--genre-ink:#7c121c}
+.genre-fantasy{--genre:#16865b;--genre-soft:#dff5ea;--genre-ink:#0d563b}
+.genre-thriller{--genre:#e37021;--genre-soft:#fff0dd;--genre-ink:#7d3b10}
+.genre-kryminal{--genre:#8b2c55;--genre-soft:#f5e3eb;--genre-ink:#561834}
+.genre-literatura-piekna{--genre:#7752b8;--genre-soft:#eee7fb;--genre-ink:#463071}
+.genre-young-adult{--genre:#2e6fd0;--genre-soft:#e2edff;--genre-ink:#194789}
+.genre-science-fiction{--genre:#087f8c;--genre-soft:#dff4f6;--genre-ink:#07505a}
+.genre-horror{--genre:#343846;--genre-soft:#e6e8ed;--genre-ink:#20232d}
+.genre-literatura-faktu{--genre:#a66c00;--genre-soft:#fff2cf;--genre-ink:#674300}
+.genre-inne{--genre:#64748b;--genre-soft:#edf0f4;--genre-ink:#3f4b5c}
+
+.calendar-day.has-events{background:linear-gradient(135deg,var(--genre-soft) 0,#fff 78%)}
+.calendar-day.has-events.today{box-shadow:inset 0 0 0 2px #1a2851}
+.calendar-event,.calendar-day.past .calendar-event{background:var(--genre-soft);border-left-color:var(--genre);color:var(--genre-ink)}
+.calendar-event:hover,.calendar-event:focus-visible,.calendar-day.past .calendar-event:hover,.calendar-day.past .calendar-event:focus-visible{background:color-mix(in srgb,var(--genre-soft) 72%,var(--genre) 28%);color:var(--genre-ink)}
+.genre-filters label{position:relative}
+.genre-filters label i{width:10px;height:10px;border-radius:3px;background:var(--genre);box-shadow:0 0 0 3px var(--genre-soft);margin:0 3px}
+.genre-filters label input{accent-color:var(--genre)}
+.chips button[class*="genre-"]{background:var(--genre-soft);border-color:var(--genre);color:var(--genre-ink)}
+
+@media(max-width:760px){
+ main{background-size:760px auto;background-position:center 520px}
+ .hero{min-height:550px;padding-bottom:245px}
+ .hero::after{left:0;right:auto;bottom:4px;width:100%;height:245px;background-position:center bottom;background-size:contain;opacity:.15}
+ .calendar-section{margin-left:2.5%;margin-right:2.5%}
+ .calendar-section .workspace{padding:12px}
+ .calendar-wrap{width:100%;overflow:visible}
+ .calendar{width:100%;overflow:visible}
+ .calendar-weekdays,.calendar-cells{min-width:0!important;width:100%;grid-template-columns:repeat(7,minmax(0,1fr))}
+ .calendar-weekdays>div{padding:8px 1px;font-size:9px;letter-spacing:.035em}
+ .calendar-day{min-width:0;min-height:88px;padding:4px 3px;overflow:visible}
+ .day-number{font-size:10px;gap:2px}
+ .day-number i{font-size:0}
+ .day-number i:after{content:'•';font-size:11px;color:#7c5ce0}
+ .day-books{margin-top:5px;gap:3px}
+ .calendar-event,.calendar-day.past .calendar-event{border-left:0;border-top:3px solid var(--genre);padding:3px 2px;font-size:8.5px;line-height:1.12;border-radius:2px;min-height:29px}
+ .event-title{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;overflow-wrap:anywhere}
+ .day-more{font-size:8px;padding:1px}
+ .calendar-scroll-hint{display:none!important}
+ .publishers-stack{max-height:none}
+}
+@media(max-width:480px){
+ .hero{min-height:525px;padding-bottom:225px}
+ .hero::after{left:0;right:auto;width:100%;height:225px;background-size:contain;opacity:.15}
+ .calendar-section .workspace{padding:9px}
+ .calendar-weekdays>div{font-size:8px}
+ .calendar-day{min-height:80px;padding:3px 2px}
+ .calendar-event,.calendar-day.past .calendar-event{font-size:7.5px;min-height:27px}
+}
