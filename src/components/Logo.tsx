@@ -1,0 +1,1 @@
+export function Logo({small=false}:{small?:boolean}) { return <span className={`logo-mark ${small?'logo-small':''}`} aria-label="KRP"><span className="logo-rings"/><span className="logo-dot"/><span className="logo-letters">KRP</span></span> }

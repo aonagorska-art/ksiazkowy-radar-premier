@@ -1,0 +1,2 @@
+import { CalendarDays, Clock3, Building2 } from 'lucide-react'
+export function Stats({monthCount,weekCount,publisherCount}:{monthCount:number;weekCount:number;publisherCount:number}) { return <section className="stats" aria-label="Premiery w liczbach"><div><CalendarDays/><strong>{monthCount}</strong><span>premier w wybranym miesiącu</span></div><div><Clock3/><strong>{weekCount}</strong><span>w najbliższych 7 dniach</span></div><div><Building2/><strong>{publisherCount}</strong><span>wydawnictw w katalogu</span></div></section> }
