@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { Book } from '../data/books'
+import { genreClass, type Book } from '../data/books'
 import { dateKey, formatDate } from '../lib/date'
 
 type CalendarProps = {
@@ -12,7 +12,7 @@ type CalendarProps = {
 function CalendarEvent({ book, onOpen }: { book: Book; onOpen: (book: Book) => void }) {
  return (
   <button
-   className="calendar-event"
+   className={`calendar-event ${genreClass(book.genre)}`}
    type="button"
    onClick={() => onOpen(book)}
    aria-label={`${book.title}, ${book.author}. Otwórz szczegóły książki`}
@@ -48,7 +48,7 @@ function CalendarDay({ day, year, month, books, onOpen, column }: {
  const releaseWord = dayBooks.length === 1 ? 'premiera' : dayBooks.length >= 2 && dayBooks.length <= 4 ? 'premiery' : 'premier'
  return (
   <div
-   className={`calendar-day ${column >= 5 ? 'weekend' : ''} ${iso === today ? 'today' : ''} ${iso < today ? 'past' : ''}`}
+   className={`calendar-day ${column >= 5 ? 'weekend' : ''} ${iso === today ? 'today' : ''} ${iso < today ? 'past' : ''} ${dayBooks.length ? `has-events ${genreClass(dayBooks[0].genre)}` : ''}`}
    role="gridcell"
    aria-label={`${day}. dzień miesiąca, ${dayBooks.length} ${releaseWord}`}
   >
@@ -67,7 +67,6 @@ export function Calendar({ year, month, books, onOpen }: CalendarProps) {
  const cells = Array.from({ length: Math.ceil((first + days) / 7) * 7 }, (_, i) => i - first + 1)
  return (
   <div className="calendar-wrap">
-   <p className="calendar-scroll-hint">Przesuń kalendarz w bok, aby zobaczyć cały tydzień →</p>
    <div className="calendar" role="grid" aria-label={`Kalendarz premier na ${month + 1}.${year}`}>
     <div className="calendar-weekdays" role="row">
      {['Pon', 'Wt', 'Śr', 'Czw', 'Pt', 'Sob', 'Niedz'].map(day => <div role="columnheader" key={day}>{day}</div>)}
