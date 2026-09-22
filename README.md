@@ -1,6 +1,6 @@
 # Książkowy Radar Premier
 
-Prosty kalendarz polskich premier książkowych. Pokazuje daty, okładki, wydawnictwa oraz linki do kart książek i Empiku. Można filtrować premiery i zapisywać ulubione.
+Prosty kalendarz polskich premier książkowych. Pokazuje daty, okładki, wydawnictwa oraz linki do stron wydawnictw i Empiku. Można filtrować premiery i zapisywać ulubione książki.
 
 Strona: [ksiazkowy-radar-premier.netlify.app](https://ksiazkowy-radar-premier.netlify.app/)
 
