@@ -1,6 +1,6 @@
 export type Genre = 'romans' | 'dark romans' | 'fantasy' | 'thriller' | 'kryminał' | 'literatura piękna' | 'young adult' | 'science fiction' | 'horror' | 'literatura faktu' | 'inne'
 export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; cover: string; publisherUrl: string; series?: string; volume?: number }
-export const genres: Genre[] = ['dark romans','fantasy','horror','inne','kryminał','literatura faktu','literatura piękna','romans','science fiction','thriller','young adult']
+export const genres: Genre[] = ['dark romans','fantasy','horror','kryminał','literatura faktu','literatura piękna','romans','science fiction','thriller','young adult','inne']
 export const publishers = [
  'Wydawnictwo Poznańskie','Wydawnictwo Albatros','Wydawnictwo Jaguar','Wydawnictwo NieZwykłe','Wydawnictwo NieZwykłe Zagraniczne','Czwarta Strona','Znak Literanova','Moondrive','Uroboros',
  'W.A.B.','Agora','Wydawnictwo Literackie','Wydawnictwo KDW','Marginesy','Prószyński i S-ka','Muza','Filia','Hype','Otwarte','SQN','Insignis','Fabryka Słów','MAG','Vesper','Czarne','Sonia Draga','Kobiece','Young','BeYA','Papierowe Serca','You&YA','Must Read','SeeYA','We Need YA','Świat Książki','Zysk i S-ka','Poradnia K'
@@ -27,7 +27,7 @@ function verified(id: string, title: string, author: string, releaseDate: string
  return {id,title,author,releaseDate,publisher,genre,description,publisherUrl,cover:`/covers-real/${id}.${extension}`,series,volume}
 }
 
-// Zweryfikowano na kartach wydawców 22.09.2026. Jest to wybrany katalog, nie pełna lista premier rynku.
+// Zweryfikowano na kartach wydawców 23.09.2026. Jest to wybrany katalog, nie pełna lista premier rynku.
 export const books: Book[] = [
  entry('p','polskosc-prawdziwa-historia-tego-kim-jestesmy','Polskość. Prawdziwa historia tego, kim jesteśmy','Kamil Janicki','2026-09-09','literatura faktu','Kamil Janicki analizuje polski charakter przez pryzmat historii i współczesnych badań.'),
  entry('p','o-objetosci-czasu-i','O objętości czasu I','Solvej Balle','2026-09-09','literatura piękna','Tara Selter utknęła w pętli czasu: każdy dzień jest ponownie osiemnastym listopada.','O objętości czasu',1),
@@ -75,5 +75,7 @@ export const books: Book[] = [
  verified('znak-budujac','Budując. Autobiografia Grażyny Kulczyk','Grażyna Kulczyk','2026-10-28','Znak Literanova','literatura faktu','Autobiografia kolekcjonerki sztuki i współtwórczyni poznańskiego Starego Browaru.','https://www.znak.com.pl/p/budujac-autobiografia-grazyny-kulczyk-grazyna-kulczyk-492745'),
  verified('moondrive-krolowa-roz','Królowa róż. Wydanie specjalne','Sasha Peyton Smith','2026-09-23','Moondrive','fantasy','Ivy Benton musi odnaleźć sposób, by obalić króla wróżek i ocalić bliskich.','https://www.znak.com.pl/p/krolowa-roz-wydanie-specjalne-sasha-peyton-smith-492434'),
  verified('uroboros-ksiega-utraconych-godzin','Księga utraconych godzin','Hayley Gelfuso','2026-09-23','Uroboros','fantasy','Lisavet trafia do biblioteki wspomnień zmarłych i odkrywa, że ktoś próbuje zmienić historię.','https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html','webp'),
- verified('uroboros-dwor-rozbitej-harmonii','Cykl Walkirii. Dwór rozbitej harmonii. Tom 6','Sarah J. Maas','2026-11-11','Uroboros','fantasy','Prythian próbuje odbudować sojusze wobec zagrożenia ze strony Kościeja Nieśmiertelnego.','https://www.gwfoksal.pl/cykl-walkirii-dwor-rozbitej-harmonii-tom-6-sarah-j-maas-sku26ee94f57627ac2f512d.html','webp','Dwór cierni i róż',6)
+ verified('uroboros-dwor-rozbitej-harmonii','Cykl Walkirii. Dwór rozbitej harmonii. Tom 6','Sarah J. Maas','2026-11-11','Uroboros','fantasy','Prythian próbuje odbudować sojusze wobec zagrożenia ze strony Kościeja Nieśmiertelnego.','https://www.gwfoksal.pl/cykl-walkirii-dwor-rozbitej-harmonii-tom-6-sarah-j-maas-sku26ee94f57627ac2f512d.html','webp','Dwór cierni i róż',6),
+ verified('hype-eldritch','Eldritch','Keri Lake','2026-09-30','Hype','fantasy','Maevyth i Zevander próbują uciec przez Żarłoczny Las, gdy pradawna magia pogrąża świat śmiertelników w mroku. Gotyckie dark fantasy z powoli rozwijającym się romansem.','https://www.wydawnictwofilia.pl/Ksiazka/1858','jpg','Żarłoczny Las',2),
+ verified('hype-threshing-day','Threshing Day. Dzień Odsiewu','Rebecca Yarros','2026-10-28','Hype','fantasy','Zbiór trzynastu opowiadań o bohaterach i smokach ze świata bestsellerowego cyklu Empireum, wzbogacony oryginalnymi ilustracjami.','https://www.wydawnictwofilia.pl/Ksiazka/1870')
 ]
