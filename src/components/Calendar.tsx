@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { genreClass, type Book } from '../data/books'
 import { dateKey, formatDate } from '../lib/date'
+import { pluralizePl } from '../lib/plural'
 
 type CalendarProps = {
  year: number
@@ -45,7 +46,7 @@ function CalendarDay({ day, year, month, books, onOpen, column }: {
  const dayBooks = books.filter(book => book.releaseDate === iso)
  const [showAll, setShowAll] = useState(false)
  const visibleBooks = showAll ? dayBooks : dayBooks.slice(0, 3)
- const releaseWord = dayBooks.length === 1 ? 'premiera' : dayBooks.length >= 2 && dayBooks.length <= 4 ? 'premiery' : 'premier'
+ const releaseWord = pluralizePl(dayBooks.length,'premiera','premiery','premier')
  return (
   <div
    className={`calendar-day ${column >= 5 ? 'weekend' : ''} ${iso === today ? 'today' : ''} ${iso < today ? 'past' : ''} ${dayBooks.length ? `has-events ${genreClass(dayBooks[0].genre)}` : ''}`}

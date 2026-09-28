@@ -1,0 +1,46 @@
+name: Aktualizuj premiery
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-releases
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+      - name: Skonfiguruj Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Skonfiguruj pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - name: Zainstaluj zależności
+        run: pnpm install --frozen-lockfile
+      - name: Sprawdź oficjalne karty wydawców
+        run: pnpm sync:releases
+      - name: Sprawdź aplikację
+        run: pnpm build
+      - name: Zapisz aktualizację
+        run: |
+          if git diff --quiet; then
+            echo "Brak zmian."
+            exit 0
+          fi
+          git config user.name "Książkowy Radar Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/books.ts src/data/syncStatus.ts public/data/sync-report.json
+          git commit -m "Automatycznie sprawdź premiery"
+          git push
