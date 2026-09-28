@@ -1,4 +1,5 @@
 import { ArrowDownRight } from 'lucide-react'
+import { pluralizePl } from '../lib/plural'
 
 export function Hero({ monthlyCount }: { monthlyCount: number }) {
  return (
@@ -6,7 +7,7 @@ export function Hero({ monthlyCount }: { monthlyCount: number }) {
    <div className="hero-copy">
     <h1>Książkowy<br /><em>Radar Premier</em></h1>
     <a className="primary-button" href="#kalendarz">Przejdź do kalendarza <ArrowDownRight size={19} /></a>
-    <div className="hero-note"><span>W wybranym miesiącu <strong>{monthlyCount} premier</strong></span></div>
+    <div className="hero-note"><span>W wybranym miesiącu <strong>{monthlyCount} {pluralizePl(monthlyCount,'premiera','premiery','premier')}</strong></span></div>
    </div>
   </section>
  )

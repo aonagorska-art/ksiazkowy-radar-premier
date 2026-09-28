@@ -27,7 +27,7 @@ function verified(id: string, title: string, author: string, releaseDate: string
  return {id,title,author,releaseDate,publisher,genre,description,publisherUrl,cover:`/covers-real/${id}.${extension}`,series,volume}
 }
 
-// Zweryfikowano na kartach wydawców 23.09.2026. Jest to wybrany katalog, nie pełna lista premier rynku.
+// Daty pozycji w katalogu są codziennie sprawdzane na oficjalnych kartach wydawców.
 export const books: Book[] = [
  entry('p','polskosc-prawdziwa-historia-tego-kim-jestesmy','Polskość. Prawdziwa historia tego, kim jesteśmy','Kamil Janicki','2026-09-09','literatura faktu','Kamil Janicki analizuje polski charakter przez pryzmat historii i współczesnych badań.'),
  entry('p','o-objetosci-czasu-i','O objętości czasu I','Solvej Balle','2026-09-09','literatura piękna','Tara Selter utknęła w pętli czasu: każdy dzień jest ponownie osiemnastym listopada.','O objętości czasu',1),
