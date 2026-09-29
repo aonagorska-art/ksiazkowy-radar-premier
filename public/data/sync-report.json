@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-28",
-  "checked": 47,
-  "warnings": [
-    {
-      "id": "uroboros-ksiega-utraconych-godzin",
-      "publisherUrl": "https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "uroboros-dwor-rozbitej-harmonii",
-      "publisherUrl": "https://www.gwfoksal.pl/cykl-walkirii-dwor-rozbitej-harmonii-tom-6-sarah-j-maas-sku26ee94f57627ac2f512d.html",
-      "message": "This operation was aborted"
-    }
-  ],
+  "updatedAt": "2026-09-29",
+  "checked": 49,
+  "warnings": [],
   "changes": []
 }
