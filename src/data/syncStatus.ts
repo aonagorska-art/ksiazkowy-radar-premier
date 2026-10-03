@@ -1,5 +1,5 @@
 export const syncStatus = {
-  updatedAt: '2026-10-02',
-  checked: 47,
-  warnings: 2,
+  updatedAt: '2026-10-03',
+  checked: 49,
+  warnings: 0,
 } as const
