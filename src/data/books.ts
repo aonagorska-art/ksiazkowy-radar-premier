@@ -1,5 +1,5 @@
 export type Genre = 'romans' | 'dark romans' | 'fantasy' | 'thriller' | 'kryminał' | 'literatura piękna' | 'young adult' | 'science fiction' | 'horror' | 'literatura faktu' | 'inne'
-export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; cover: string; publisherUrl: string; market?: 'PL'|'US'; series?: string; volume?: number }
+export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; publisherUrl: string; market?: 'PL'|'US'; series?: string; volume?: number }
 export const genres: Genre[] = ['dark romans','fantasy','horror','kryminał','literatura faktu','literatura piękna','romans','science fiction','thriller','young adult','inne']
 export const publishers = [
  'Wydawnictwo Poznańskie','Wydawnictwo Albatros','Wydawnictwo Jaguar','Wydawnictwo NieZwykłe','Wydawnictwo NieZwykłe Zagraniczne','Czwarta Strona','Znak Literanova','Moondrive','Uroboros',
@@ -16,15 +16,14 @@ function entry(source: Source, slug: string, title: string, author: string, rele
  return {
   id: slug, title, author, releaseDate, genre, description, series, volume,
   publisher: source === 'p' ? publishers[0] : publishers[1],
-  cover: `/covers-real/${slug}.${slug === 'krol-smutek' ? 'png' : 'jpg'}`,
   publisherUrl: source === 'p'
    ? `https://wydawnictwopoznanskie.pl/produkt/${slug}/`
    : `https://www.wydawnictwoalbatros.com/ksiazki/${slug}/`
  }
 }
 
-function verified(id: string, title: string, author: string, releaseDate: string, publisher: string, genre: Genre, description: string, publisherUrl: string, extension = 'jpg', series?: string, volume?: number): Book {
- return {id,title,author,releaseDate,publisher,genre,description,publisherUrl,cover:`/covers-real/${id}.${extension}`,series,volume}
+function verified(id: string, title: string, author: string, releaseDate: string, publisher: string, genre: Genre, description: string, publisherUrl: string, _extension = 'jpg', series?: string, volume?: number): Book {
+ return {id,title,author,releaseDate,publisher,genre,description,publisherUrl,series,volume}
 }
 
 // Daty pozycji w katalogu są codziennie sprawdzane na oficjalnych kartach wydawców.

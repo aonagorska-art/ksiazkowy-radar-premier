@@ -51,25 +51,6 @@ function officialUrl(isbn,title,publisher){
  if(/sourcebooks|poisoned pen/i.test(publisher))return `https://www.sourcebooks.com/catalogsearch/result/?q=${isbn}`
  return `https://us.macmillan.com/books/${isbn}/${slugify(title)}/`
 }
-async function findCoverUrl(isbn,publisher){
- const candidates=[]
- if(prhPublishers.some(name=>normalizePublisher(publisher).includes(normalizePublisher(name)))){
-  for(let host=1;host<=4;host++)candidates.push(`https://images${host}.penguinrandomhouse.com/cover/${isbn}`)
- }
- if(/sourcebooks|poisoned pen/i.test(publisher))candidates.push(`https://www.sourcebooks.com/media/catalog/product/${isbn.slice(0,2).split('').join('/')}/${isbn}.jpg?auto=webp&format=pjpg&width=900&height=1350&fit=cover`)
- candidates.push(`https://covers.openlibrary.org/b/isbn/${isbn}-L.jpg`)
- for(const url of candidates){
-  try{
-   const response=await fetch(url,{redirect:'follow',headers:{'user-agent':'BookReleaseRadar/1.0'}})
-   if(!response.ok)continue
-   const bytes=Buffer.from(await response.arrayBuffer())
-   if(bytes.length<2500)continue
-   return url
-  }catch{}
- }
- return null
-}
-
 const existing=JSON.parse(await readFile(OUTPUT,'utf8'))
 const known=new Set(existing.map(book=>`${book.title}|${book.author}`.toLowerCase()))
 const discovered=[]
@@ -101,8 +82,6 @@ for(const publisher of publishers){
   }
   if(!match)continue
   const slug=`${slugify(doc.title)}-${match.isbn.slice(-5)}`
-  const cover=await findCoverUrl(match.isbn,match.publisher)
-  if(!cover)continue
   const item={
    id:`us-auto-${slug}`,
    title:doc.title,
@@ -111,7 +90,6 @@ for(const publisher of publishers){
    publisher:match.publisher,
    genre:inferGenre(doc.subject || []),
    description:`A forthcoming US release from ${match.publisher}. Open the publisher page for the official description and current publication details.`,
-   cover,
    publisherUrl:officialUrl(match.isbn,doc.title,match.publisher),
    market:'US'
   }

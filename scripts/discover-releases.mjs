@@ -96,11 +96,6 @@ function authorFrom(html, schema) {
  return ''
 }
 
-function imageFrom(schema, html) {
- const image=Array.isArray(schema.image)?schema.image[0]:schema.image
- return typeof image==='string'?image:image?.url??meta(html,'og:image')
-}
-
 function slug(value) {
  return value.toLocaleLowerCase('pl-PL').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ł/g,'l').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,90)
 }
@@ -174,15 +169,14 @@ async function inspect(url, source) {
   const schema=jsonLd(html)
   const title=decode(schema.name??meta(html,'og:title')).replace(/^Książka\s+/i,'').replace(/\s*[|–]\s*[^|–]{2,40}$/,'').trim()
   const author=authorFrom(html,schema)
-  const cover=imageFrom(schema,html)
-  if(title.length<2||author.length<2||!cover)return null
+  if(title.length<2||author.length<2)return null
   const rawDescription=decode(schema.description??meta(html,'description')??meta(html,'og:description'))
   return {
    id:`auto-${slug(source.publisher)}-${slug(title)}`,
    title,author,releaseDate:date,publisher:source.publisher,
    genre:inferGenre(url,title,rawDescription),
    description:`Premiera książki „${title}” autorstwa ${author}. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.`,
-   cover,publisherUrl:url,
+   publisherUrl:url,
   }
  }catch{return null}
 }

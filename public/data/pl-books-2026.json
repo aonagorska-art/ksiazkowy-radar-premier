@@ -7,8 +7,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "thriller",
     "description": "Pięć osób prześladowanych przez stalkerów postanawia odwrócić role, zanim odliczanie wskaże kolejną ofiarę.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kazdy-twoj-ruch/",
-    "cover": "/covers-2026-pl/pl-2026-kazdy-twoj-ruch.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kazdy-twoj-ruch/"
   },
   {
     "id": "pl-2026-teoria-prawie-wszystkiego",
@@ -18,8 +17,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "romans",
     "description": "Ciepła opowieść o neuroróżnorodnym rodzeństwie, miłości i próbie ułożenia życia według algorytmu.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/teoria-prawie-wszystkiego/",
-    "cover": "/covers-2026-pl/pl-2026-teoria-prawie-wszystkiego.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/teoria-prawie-wszystkiego/"
   },
   {
     "id": "pl-2026-strategia-wyjscia",
@@ -29,8 +27,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "thriller",
     "description": "Jack Reacher znajduje w kieszeni desperacką prośbę o pomoc i rusza tropem kolejnej niebezpiecznej sprawy.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/strategia-wyjscia/",
-    "cover": "/covers-2026-pl/pl-2026-strategia-wyjscia.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/strategia-wyjscia/"
   },
   {
     "id": "pl-2026-swiatlo-miedzy-oceanami",
@@ -40,8 +37,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "literatura piękna",
     "description": "Opowieść o miłości, stracie i konsekwencjach decyzji podjętej na odległej wyspie z latarnią morską.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/swiatlo-miedzy-oceanami-4/",
-    "cover": "/covers-2026-pl/pl-2026-swiatlo-miedzy-oceanami.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/swiatlo-miedzy-oceanami-4/"
   },
   {
     "id": "pl-2026-sto-procent",
@@ -51,8 +47,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "kryminał",
     "description": "Ewert Grens i Piet Hoffmann mierzą się z wyjątkowo mroczną sprawą, która prowadzi do przestępczego półświatka Sztokholmu.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/100-procent/",
-    "cover": "/covers-2026-pl/pl-2026-sto-procent.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/100-procent/"
   },
   {
     "id": "pl-2026-pocalunek-na-pozegnanie",
@@ -62,8 +57,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "thriller",
     "description": "Frankie Elkin szuka zaginionej kobiety, której najbliżsi przedstawiają zupełnie różne wersje wydarzeń.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/pocalunek-na-pozegnanie/",
-    "cover": "/covers-2026-pl/pl-2026-pocalunek-na-pozegnanie.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/pocalunek-na-pozegnanie/"
   },
   {
     "id": "pl-2026-zbrodnia-w-raju",
@@ -73,8 +67,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "kryminał",
     "description": "Mroczna zagadka kryminalna w stylu retro, osadzona na francuskim Lazurowym Wybrzeżu lat dwudziestych.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zbrodnia-w-raju/",
-    "cover": "/covers-2026-pl/pl-2026-zbrodnia-w-raju.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zbrodnia-w-raju/"
   },
   {
     "id": "pl-2026-wdowa",
@@ -84,8 +77,7 @@
     "publisher": "Wydawnictwo Albatros",
     "genre": "thriller",
     "description": "Prowincjonalny prawnik oskarżony o morderstwo musi odnaleźć prawdziwego zabójcę i oczyścić swoje nazwisko.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/wdowa/",
-    "cover": "/covers-2026-pl/pl-2026-wdowa.jpg"
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/wdowa/"
   },
   {
     "id": "pl-2026-dziewiecdziesiat-dni",
@@ -95,7 +87,6 @@
     "publisher": "Czarne",
     "genre": "literatura faktu",
     "description": "Reporterski zapis podróży Gabriela Garcíi Márqueza po krajach Europy Środkowo-Wschodniej.",
-    "publisherUrl": "https://czarne.com.pl/katalog/ksiazki/dziewiecdziesiat-dni-za-zelazna-kurtyna",
-    "cover": "/covers-2026-pl/pl-2026-dziewiecdziesiat-dni.png"
+    "publisherUrl": "https://czarne.com.pl/katalog/ksiazki/dziewiecdziesiat-dni-za-zelazna-kurtyna"
   }
 ]
