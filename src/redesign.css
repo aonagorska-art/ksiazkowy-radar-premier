@@ -45,6 +45,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 .heart-button{border-color:#ded7f1}
 .calendar-section{padding-top:60px}
 .demo-label{background:#f1edff!important;border-color:#ded3fb!important;color:#5b43a7!important}
+.calendar-notes{max-width:520px;display:flex;flex-direction:column;align-items:flex-end;gap:9px;text-align:right}
+.cover-rights-note{max-width:470px;color:#69738a;font-size:11px;line-height:1.45}
 .workspace{background:#fff;border-color:#dce0ea;box-shadow:0 18px 55px #0b17330a}
 .search-box{border-color:#c9d0df;color:#7657cb}
 .search-box:focus-within{border-color:#7657cb}
@@ -82,7 +84,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 .empik-button:hover{background:#eee9ff}
 .modal-heart{border-color:#d2c7ee;color:#5c42ac}
 @media(max-width:1100px){.section-wrap{margin-left:5%;margin-right:5%}.hero h1{font-size:clamp(52px,6.1vw,78px)}}
-@media(max-width:760px){.hero{display:flex;flex-direction:column;min-height:420px;padding:52px 6% 40px}.hero::after{right:-10%;bottom:0;width:115%;height:300px;opacity:.13}.hero-copy{padding-right:0}.hero h1{font-size:clamp(48px,10.5vw,72px);margin-bottom:24px}.stats{padding:20px 5%}.stats strong{font-size:23px}.stats span{font-size:11px}.upcoming{padding-top:65px}.section-heading h2{font-size:35px}.book-card h3{font-size:18px}.month-navigation h3{font-size:24px}.mobile-filter-button{border-color:#cec7e6;color:#513798}.mobile-filter-button span{background:#d9caff}.apply-filters{background:#1a2851}.filters-panel{background:#fff}.modal-actions{flex-direction:column}.modal-actions>*{width:100%}}
+@media(max-width:760px){.hero{display:flex;flex-direction:column;min-height:420px;padding:52px 6% 40px}.hero::after{right:-10%;bottom:0;width:115%;height:300px;opacity:.13}.hero-copy{padding-right:0}.hero h1{font-size:clamp(48px,10.5vw,72px);margin-bottom:24px}.stats{padding:20px 5%}.stats strong{font-size:23px}.stats span{font-size:11px}.upcoming{padding-top:65px}.section-heading h2{font-size:35px}.calendar-notes{margin-top:17px;align-items:flex-start;text-align:left}.cover-rights-note{font-size:10px}.book-card h3{font-size:18px}.month-navigation h3{font-size:24px}.mobile-filter-button{border-color:#cec7e6;color:#513798}.mobile-filter-button span{background:#d9caff}.apply-filters{background:#1a2851}.filters-panel{background:#fff}.modal-actions{flex-direction:column}.modal-actions>*{width:100%}}
 @media(max-width:480px){.hero h1{font-size:clamp(44px,11.5vw,58px)}.hero::after{right:-27%;width:140%;height:300px;opacity:.11}.stats{gap:3px}.stats>div{gap:3px}.stats strong{font-size:20px}.stats span{font-size:10px}.section-heading h2{font-size:31px}}
 
 /* Fantasy reading room: stronger calendar colours and a compact mobile grid. */
