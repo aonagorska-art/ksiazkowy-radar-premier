@@ -1,5 +1,5 @@
 export type Genre = 'romans' | 'dark romans' | 'fantasy' | 'thriller' | 'kryminał' | 'literatura piękna' | 'young adult' | 'science fiction' | 'horror' | 'literatura faktu' | 'inne'
-export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; cover: string; publisherUrl: string; series?: string; volume?: number }
+export type Book = { id: string; title: string; author: string; releaseDate: string; publisher: string; genre: Genre; description: string; cover: string; publisherUrl: string; market?: 'PL'|'US'; series?: string; volume?: number }
 export const genres: Genre[] = ['dark romans','fantasy','horror','kryminał','literatura faktu','literatura piękna','romans','science fiction','thriller','young adult','inne']
 export const publishers = [
  'Wydawnictwo Poznańskie','Wydawnictwo Albatros','Wydawnictwo Jaguar','Wydawnictwo NieZwykłe','Wydawnictwo NieZwykłe Zagraniczne','Czwarta Strona','Znak Literanova','Moondrive','Uroboros',

@@ -141,3 +141,77 @@ main{background:#f9f9fd url('/literary-fantasy-pattern.svg') center 610px/1200px
  .calendar-day{min-height:80px;padding:3px 2px}
  .calendar-event,.calendar-day.past .calendar-event{font-size:7.5px;min-height:27px}
 }
+
+/* Plain wordmark and market switcher. */
+.site-header{gap:24px}
+.brand{min-width:0;flex:none}
+.brand strong{font-family:'Inter',sans-serif;font-size:18px;font-weight:800;line-height:1;letter-spacing:-.035em;white-space:nowrap}
+.language-switch{display:flex;align-items:center;padding:3px;border:1px solid #c6cddd;border-radius:999px;background:#f3f5fa}
+.language-switch button{border:0;background:transparent;color:#687389;border-radius:999px;padding:6px 8px;font-size:10px;font-weight:800;letter-spacing:.05em}
+.language-switch button.active{background:#1a2851;color:#fff}
+.footer-brand strong{font-family:'Inter',sans-serif;font-size:18px;font-weight:800;letter-spacing:-.03em;white-space:nowrap}
+@media(max-width:760px){
+ .site-header{gap:10px;padding-left:4%;padding-right:4%}
+ .brand strong{font-size:clamp(12px,3.4vw,15px)}
+ .site-header nav{gap:7px}
+ .nav-favorites{padding:8px}
+ .language-switch button{padding:6px 7px;font-size:9px}
+}
+@media(max-width:390px){
+ .brand strong{font-size:12px}
+ .nav-favorites{display:none}
+}
+
+/* The US market uses deep teal and coral, while the Polish market stays navy and violet. */
+html[data-language="en"] body{background:#f7faf9;color:#123640}
+html[data-language="en"] main{background-color:#f7faf9}
+html[data-language="en"] .site-header{border-bottom-color:#cbdedc}
+html[data-language="en"] .brand strong,
+html[data-language="en"] .site-header nav,
+html[data-language="en"] .nav-favorites{color:#0c4650}
+html[data-language="en"] .nav-favorites{border-color:#b7d1ce}
+html[data-language="en"] .nav-favorites:hover{background:#e9f4f1}
+html[data-language="en"] .nav-favorites span{background:#ffe0da;color:#8b3028}
+html[data-language="en"] .language-switch{background:#edf5f3;border-color:#bfd5d2}
+html[data-language="en"] .language-switch button.active{background:#0b5963;color:#fff}
+html[data-language="en"] .top-content{background-color:#073b4c}
+html[data-language="en"] .hero .primary-button{background:#ff826f;border-color:#ff826f;color:#16363e}
+html[data-language="en"] .hero .primary-button:hover{background:#ffa092;border-color:#ffa092}
+html[data-language="en"] .hero h1 em{color:#ff8b78}
+html[data-language="en"] .hero-note,
+html[data-language="en"] .hero-note strong{color:#c7dedb}
+html[data-language="en"] .hero-note strong{color:#fff}
+html[data-language="en"] .stats svg,
+html[data-language="en"] .book-date,
+html[data-language="en"] .book-card-arrow,
+html[data-language="en"] .heart-button,
+html[data-language="en"] .heart-button.active{color:#d65348}
+html[data-language="en"] .stats strong,
+html[data-language="en"] .section-heading h2,
+html[data-language="en"] .book-card h3,
+html[data-language="en"] .month-navigation h3{color:#123f49}
+html[data-language="en"] .section-heading .eyebrow{color:#c44f45}
+html[data-language="en"] .text-link,
+html[data-language="en"] .favorites-filter{color:#a73f37}
+html[data-language="en"] .book-card:hover{box-shadow:5px 5px 0 #9bcfc8}
+html[data-language="en"] .demo-label{background:#e6f3f0!important;border-color:#b9d9d4!important;color:#22616a!important}
+html[data-language="en"] .search-box{color:#bf4d43}
+html[data-language="en"] .search-box:focus-within{border-color:#d15b50}
+html[data-language="en"] .radio-stack input,
+html[data-language="en"] .check-stack input{accent-color:#0b6971}
+html[data-language="en"] .filters-top h3 svg,
+html[data-language="en"] .filters-top>button{color:#ad433b}
+html[data-language="en"] .month-navigation button{color:#0b6870;border-color:#bfd8d5}
+html[data-language="en"] .month-navigation button:hover,
+html[data-language="en"] .today-button:hover{background:#e6f4f1}
+html[data-language="en"] .view-toggle{background:#e4f0ee}
+html[data-language="en"] .view-toggle button.active,
+html[data-language="en"] .calendar-weekdays{background:#0b5963;color:#fff}
+html[data-language="en"] .calendar-day.today{background:#fff0ed;box-shadow:inset 0 0 0 2px #ef6f61}
+html[data-language="en"] .site-footer{background:#073b4c}
+html[data-language="en"] .modal-backdrop{background:#073b4cdb}
+html[data-language="en"] .modal-content .eyebrow{color:#c64c43}
+html[data-language="en"] .modal-actions .primary-button{background:#0b5963;border-color:#0b5963}
+html[data-language="en"] .empik-button{border-color:#e36b60;color:#a84038}
+html[data-language="en"] .empik-button:hover{background:#fff0ed}
+html[data-language="en"] .modal-heart{border-color:#d9b9b4;color:#a84038}

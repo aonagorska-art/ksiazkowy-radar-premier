@@ -31,6 +31,10 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Sprawdź oficjalne karty wydawców
         run: pnpm sync:releases
+      - name: Wyszukaj nowe premiery
+        run: pnpm discover:releases
+      - name: Wyszukaj nowe premiery w USA
+        run: pnpm discover:us
       - name: Sprawdź aplikację
         run: pnpm build
       - name: Zapisz aktualizację
@@ -41,6 +45,6 @@ jobs:
           fi
           git config user.name "Książkowy Radar Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add src/data/books.ts src/data/syncStatus.ts public/data/sync-report.json
+          git add src/data/books.ts src/data/syncStatus.ts public/data/sync-report.json public/data/auto-books.json public/data/us-books.json
           git commit -m "Automatycznie sprawdź premiery"
           git push
