@@ -1,5 +1,685 @@
 [
   {
+    "id": "auto-wydawnictwo-poznanskie-na-tej-ziemi-seria-dziel-pisarzy-skandynawskich",
+    "title": "Na tej ziemi [Seria Dzieł Pisarzy Skandynawskich]",
+    "author": "Theis Ørntoft",
+    "releaseDate": "2026-01-14",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Na tej ziemi [Seria Dzieł Pisarzy Skandynawskich]” autorstwa Theis Ørntoft. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/na-tej-ziemi-seria-dziel-pisarzy-skandynawskich/"
+  },
+  {
+    "id": "auto-czwarta-strona-rozpacz",
+    "title": "Rozpacz",
+    "author": "Klaudia Muniak",
+    "releaseDate": "2026-01-14",
+    "publisher": "Czwarta Strona",
+    "genre": "kryminał",
+    "description": "Premiera książki „Rozpacz” autorstwa Klaudia Muniak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/rozpacz/"
+  },
+  {
+    "id": "auto-czwarta-strona-wszystko-na-mojej-glowie",
+    "title": "Wszystko na mojej głowie",
+    "author": "Jakub Bączykowski",
+    "releaseDate": "2026-01-28",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Wszystko na mojej głowie” autorstwa Jakub Bączykowski. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/wszystko-na-mojej-glowie/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-lurking-darkness-outlet-weronika-plota",
+    "title": "Lurking Darkness - Outlet - Weronika Plota",
+    "author": "Weronika Plota",
+    "releaseDate": "2026-03-04",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Lurking Darkness - Outlet - Weronika Plota” autorstwa Weronika Plota. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/lurking-darkness-outlet"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda",
+    "title": "Miasto i woda. Wodociągi i Kanalizacja w Poznaniu 1865-2025 - Oprawa twarda",
+    "author": "Miron Urbaniak",
+    "releaseDate": "2026-03-19",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Miasto i woda. Wodociągi i Kanalizacja w Poznaniu 1865-2025 - Oprawa twarda” autorstwa Miron Urbaniak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda/"
+  },
+  {
+    "id": "auto-czwarta-strona-caught-up-into-darkness-t-2",
+    "title": "Caught Up [Into Darkness - t.2]",
+    "author": "Navessa Allen",
+    "releaseDate": "2026-03-25",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Caught Up [Into Darkness - t.2]” autorstwa Navessa Allen. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/caught-up/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-po-prostu-emma-outlet-monika-pawelec-wijas",
+    "title": "Po prostu Emma - Outlet - Monika Pawelec-Wijas",
+    "author": "Monika Pawelec-Wijas",
+    "releaseDate": "2026-04-08",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Po prostu Emma - Outlet - Monika Pawelec-Wijas” autorstwa Monika Pawelec-Wijas. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/po-prostu-emma-outlet"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-gniew-upadlych-outlet-amber-v-nicole",
+    "title": "Gniew upadłych - Outlet - Amber V. Nicole",
+    "author": "Amber V. Nicole",
+    "releaseDate": "2026-04-28",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Gniew upadłych - Outlet - Amber V. Nicole” autorstwa Amber V. Nicole. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/gniew-upadlych-outlet"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-corka-z-kuby",
+    "title": "CÓRKA Z KUBY",
+    "author": "Soraya Lane",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CÓRKA Z KUBY” autorstwa Soraya Lane. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/corka-z-kuby-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-drzewo-aniola",
+    "title": "DRZEWO ANIOŁA",
+    "author": "Lucinda Riley",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „DRZEWO ANIOŁA” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/drzewo-aniola-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-jedno-zyczenie",
+    "title": "JEDNO ŻYCZENIE",
+    "author": "Nicholas Sparks",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „JEDNO ŻYCZENIE” autorstwa Nicholas Sparks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/jedno-zyczenie-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-kirke",
+    "title": "KIRKE",
+    "author": "Madeline Miller",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KIRKE” autorstwa Madeline Miller. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kirke-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-ktos-tu-klamie",
+    "title": "KTOŚ TU KŁAMIE",
+    "author": "Jenny Blackhurst",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KTOŚ TU KŁAMIE” autorstwa Jenny Blackhurst. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ktos-tu-klamie-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-milczaca-dziewczyna",
+    "title": "MILCZĄCA DZIEWCZYNA",
+    "author": "Tess Gerritsen",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „MILCZĄCA DZIEWCZYNA” autorstwa Tess Gerritsen. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/milczaca-dziewczyna-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-nieznajomy",
+    "title": "NIEZNAJOMY",
+    "author": "Harlan Coben",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIEZNAJOMY” autorstwa Harlan Coben. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nieznajomy-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-teraz-zasniesz",
+    "title": "TERAZ ZAŚNIESZ",
+    "author": "C.L. Taylor",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TERAZ ZAŚNIESZ” autorstwa C.L. Taylor. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/teraz-zasniesz-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-uwieziona",
+    "title": "UWIĘZIONA",
+    "author": "B.A. Paris",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "thriller",
+    "description": "Premiera książki „UWIĘZIONA” autorstwa B.A. Paris. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/uwieziona-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zielona-mila",
+    "title": "ZIELONA MILA",
+    "author": "Stephen King",
+    "releaseDate": "2026-05-19",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZIELONA MILA” autorstwa Stephen King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zielona-mila-duzym-drukiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-pod-woda",
+    "title": "Pod wodą",
+    "author": "Tara K. Menon",
+    "releaseDate": "2026-05-20",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Pod wodą” autorstwa Tara K. Menon. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/pod-woda/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-czarna-owca-medycyny-nieopowiedziana-historia-psychiatrii-wyd-3",
+    "title": "Czarna owca medycyny. Nieopowiedziana historia psychiatrii (wyd.3)",
+    "author": "Jeffrey A. Lieberman",
+    "releaseDate": "2026-06-02",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Czarna owca medycyny. Nieopowiedziana historia psychiatrii (wyd.3)” autorstwa Jeffrey A. Lieberman. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/czarna-owca-medycyny-nieopowiedziana-historia-psychiatrii-wyd-3/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-albania-w-szponach-czarnego-orla-wyd-2-seria-podroznicza",
+    "title": "Albania. W szponach czarnego orła (wyd.2) [Seria Podróżnicza]",
+    "author": "Izabela Nowek",
+    "releaseDate": "2026-06-17",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Albania. W szponach czarnego orła (wyd.2) [Seria Podróżnicza]” autorstwa Izabela Nowek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/albania-w-szponach-czarnego-orla-wyd-2/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-bedziesz-wrzeszczec-dziewczyny-na-polskiej-scenie-alternatywnej-lat-80",
+    "title": "Będziesz wrzeszczeć. Dziewczyny na polskiej scenie alternatywnej lat 80",
+    "author": "Magdalena Czubaszek",
+    "releaseDate": "2026-06-17",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "literatura faktu",
+    "description": "Premiera książki „Będziesz wrzeszczeć. Dziewczyny na polskiej scenie alternatywnej lat 80” autorstwa Magdalena Czubaszek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/bedziesz-wrzeszczec-dziewczyny-na-polskiej-scenie-alternatywnej-lat-80/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-fragrancia",
+    "title": "Fragrancia",
+    "author": "Paul Richardot",
+    "releaseDate": "2026-06-17",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "kryminał",
+    "description": "Premiera książki „Fragrancia” autorstwa Paul Richardot. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/fragrancia/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-hiszpania-apetyt-na-slonce-seria-podroznicza",
+    "title": "Hiszpania. Apetyt na słońce [Seria Podróżnicza]",
+    "author": "Mikołaj Buczak",
+    "releaseDate": "2026-06-17",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Hiszpania. Apetyt na słońce [Seria Podróżnicza]” autorstwa Mikołaj Buczak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/hiszpania-apetyt-na-slonce/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-prawie-wieczor-wciaz-jasno",
+    "title": "Prawie wieczór, wciąż jasno",
+    "author": "Maja Linea Ernst",
+    "releaseDate": "2026-06-17",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Prawie wieczór, wciąż jasno” autorstwa Maja Linea Ernst. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/prawie-wieczor-wciaz-jasno/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-poznan-historie-nieznane-i-zapomniane",
+    "title": "Poznań. Historie nieznane i zapomniane",
+    "author": "Filip Czekała",
+    "releaseDate": "2026-07-01",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Poznań. Historie nieznane i zapomniane” autorstwa Filip Czekała. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/poznan-historie-nieznane-i-zapomniane/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-moj-kumpel-jest-dziewczyna-edycja-ilustrowana-weronika-ancerowicz",
+    "title": "Mój kumpel jest dziewczyną - edycja ilustrowana - Weronika Ancerowicz",
+    "author": "Weronika Ancerowicz",
+    "releaseDate": "2026-07-13",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "young adult",
+    "description": "Premiera książki „Mój kumpel jest dziewczyną - edycja ilustrowana - Weronika Ancerowicz” autorstwa Weronika Ancerowicz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/moj-kumpel-jest-dziewczyna-ilustrowana"
+  },
+  {
+    "id": "auto-czwarta-strona-wladca-lakomstwa-wladcy-grzechu",
+    "title": "Władca łakomstwa [Władcy Grzechu]",
+    "author": "Ana Huang",
+    "releaseDate": "2026-07-15",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Władca łakomstwa [Władcy Grzechu]” autorstwa Ana Huang. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/wladca-lakomstwa-wladcy-grzechu/"
+  },
+  {
+    "id": "auto-czwarta-strona-bezprawie-joanna-chylka-t-20-oprawa-twarda",
+    "title": "Bezprawie [Joanna Chyłka t.20] - oprawa twarda",
+    "author": "Remigiusz Mróz",
+    "releaseDate": "2026-07-29",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Bezprawie [Joanna Chyłka t.20] - oprawa twarda” autorstwa Remigiusz Mróz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/bezprawie-chylka-oprawa-twarda/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-kronika-mojej-ziemskiej-wedrowki",
+    "title": "Kronika mojej ziemskiej wędrówki",
+    "author": "Daniel Mason",
+    "releaseDate": "2026-07-29",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Kronika mojej ziemskiej wędrówki” autorstwa Daniel Mason. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/kronika-mojej-ziemskiej-wedrowki/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-zloto-srebro-i-krew",
+    "title": "Złoto, srebro i krew",
+    "author": "Gareth Harney",
+    "releaseDate": "2026-07-29",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Złoto, srebro i krew” autorstwa Gareth Harney. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zloto-srebro-i-krew/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-better-than-him-angelika-kolodziej",
+    "title": "Better Than Him - Angelika Kołodziej",
+    "author": "Angelika Kołodziej",
+    "releaseDate": "2026-08-12",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Better Than Him - Angelika Kołodziej” autorstwa Angelika Kołodziej. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/better-than-him"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-chasing-the-wild-elliott-rose",
+    "title": "Chasing the Wild - Elliott Rose",
+    "author": "Elliott Rose",
+    "releaseDate": "2026-08-13",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Chasing the Wild - Elliott Rose” autorstwa Elliott Rose. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/chasing-the-wild"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-unhinged-steph-macca",
+    "title": "Unhinged - Steph Macca",
+    "author": "Steph Macca",
+    "releaseDate": "2026-08-13",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Unhinged - Steph Macca” autorstwa Steph Macca. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/unhinged"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-smiala-przysiega-smierci-brigid-kemmerer",
+    "title": "Śmiała przysięga śmierci - Brigid Kemmerer",
+    "author": "Brigid Kemmerer",
+    "releaseDate": "2026-08-18",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Śmiała przysięga śmierci - Brigid Kemmerer” autorstwa Brigid Kemmerer. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/smiala-przysiega-smierci"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-tylko-iluzja-wznowienie-joanna-chwistek",
+    "title": "Tylko iluzja - wznowienie - Joanna Chwistek",
+    "author": "Joanna Chwistek",
+    "releaseDate": "2026-08-19",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Tylko iluzja - wznowienie - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/tylko-iluzja-wznowienie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-tylko-zludzenie-wznowienie-joanna-chwistek",
+    "title": "Tylko złudzenie - wznowienie - Joanna Chwistek",
+    "author": "Joanna Chwistek",
+    "releaseDate": "2026-08-19",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Tylko złudzenie - wznowienie - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/tylko-zludzenie-wznowienie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-piekne-wygnanie-catherine-cowles",
+    "title": "Piękne wygnanie - Catherine Cowles",
+    "author": "Catherine Cowles",
+    "releaseDate": "2026-08-20",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Piękne wygnanie - Catherine Cowles” autorstwa Catherine Cowles. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/piekne-wygnanie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-scarlet-angel-s-t-abby",
+    "title": "Scarlet Angel - S.T. Abby",
+    "author": "S.T. Abby",
+    "releaseDate": "2026-08-20",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Scarlet Angel - S.T. Abby” autorstwa S.T. Abby. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/scarlet-angel"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-glow-up-nina-slowik",
+    "title": "Glow Up - Nina Słowik",
+    "author": "Nina Słowik",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Glow Up - Nina Słowik” autorstwa Nina Słowik. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/glow-up"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-heated-rivalry-rachel-reid",
+    "title": "Heated Rivalry - Rachel Reid",
+    "author": "Rachel Reid",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Heated Rivalry - Rachel Reid” autorstwa Rachel Reid. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/heated-rivalry"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-heated-rivalry-w-twardej-oprawie-z-barwionymi-brzegami-rachel-reid",
+    "title": "Heated Rivalry w twardej oprawie z barwionymi brzegami - Rachel Reid",
+    "author": "Rachel Reid",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Heated Rivalry w twardej oprawie z barwionymi brzegami - Rachel Reid” autorstwa Rachel Reid. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/heated-rivalry-tw"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-kryptonim-kawki",
+    "title": "KRYPTONIM KAWKI",
+    "author": "Ken Follett",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "thriller",
+    "description": "Premiera książki „KRYPTONIM KAWKI” autorstwa Ken Follett. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kryptonim-kawki/"
+  },
+  {
+    "id": "auto-czwarta-strona-poczekam-z-toba",
+    "title": "Poczekam z tobą",
+    "author": "Jakub Bączykowski",
+    "releaseDate": "2026-08-26",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Poczekam z tobą” autorstwa Jakub Bączykowski. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/poczekam-z-toba/"
+  },
+  {
+    "id": "auto-czwarta-strona-skradzione-piekno",
+    "title": "Skradzione piękno",
+    "author": "Diana Brzezińska",
+    "releaseDate": "2026-08-26",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Skradzione piękno” autorstwa Diana Brzezińska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/skradzione-piekno/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-demon-i-swiatlo-axie-oh",
+    "title": "Demon i Światło - Axie Oh",
+    "author": "Axie Oh",
+    "releaseDate": "2026-09-01",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Demon i Światło - Axie Oh” autorstwa Axie Oh. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/demon-i-swiatlo"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-devilish-enemy-vanessa-dolinska",
+    "title": "Devilish Enemy - Vanessa Dolińska",
+    "author": "Vanessa Dolińska",
+    "releaseDate": "2026-09-02",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Devilish Enemy - Vanessa Dolińska” autorstwa Vanessa Dolińska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/devilish-enemy"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-kiedy-bylismy-sierotami-audiobook",
+    "title": "KIEDY BYLIŚMY SIEROTAMI - audiobook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KIEDY BYLIŚMY SIEROTAMI - audiobook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kiedy-bylismy-sierotami-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-krol-smutek-audiobook",
+    "title": "KRÓL SMUTEK - audiobook",
+    "author": "Joe Hill",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KRÓL SMUTEK - audiobook” autorstwa Joe Hill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/krol-smutek-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-sekretna-historia-audrey-james-audiobook",
+    "title": "SEKRETNA HISTORIA AUDREY JAMES - audiobook",
+    "author": "Heather Marshall",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „SEKRETNA HISTORIA AUDREY JAMES - audiobook” autorstwa Heather Marshall. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sekretna-historia-audrey-james-audiobook/"
+  },
+  {
+    "id": "auto-czwarta-strona-to-mogla-byc-ona",
+    "title": "To mogła być ona",
+    "author": "Lisa Jewell",
+    "releaseDate": "2026-09-09",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „To mogła być ona” autorstwa Lisa Jewell. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/to-mogla-byc-ona/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zdazyc-przed-zmrokiem",
+    "title": "ZDĄŻYĆ PRZED ZMROKIEM",
+    "author": "Tana French",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZDĄŻYĆ PRZED ZMROKIEM” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zdazyc-przed-zmrokiem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zdazyc-przed-zmrokiem-audiobook",
+    "title": "ZDĄŻYĆ PRZED ZMROKIEM - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZDĄŻYĆ PRZED ZMROKIEM - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zdazyc-przed-zmrokiem-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zdazyc-przed-zmrokiem-ebook",
+    "title": "ZDĄŻYĆ PRZED ZMROKIEM - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-09-09",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZDĄŻYĆ PRZED ZMROKIEM - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zdazyc-przed-zmrokiem-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-okruchy-dnia-ebook",
+    "title": "OKRUCHY DNIA - ebook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-09-11",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „OKRUCHY DNIA - ebook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/okruchy-dnia-ebook-2/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-a-z-mgly-rodzi-sie-swit-julie-c-dao",
+    "title": "A z mgły rodzi się świt - Julie C. Dao",
+    "author": "Julie C. Dao",
+    "releaseDate": "2026-09-15",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „A z mgły rodzi się świt - Julie C. Dao” autorstwa Julie C. Dao. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/a-z-mgly-rodzi-sie-swit"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-imperium-zla-karolina-jurga",
+    "title": "Imperium Zła - Karolina Jurga",
+    "author": "Karolina Jurga",
+    "releaseDate": "2026-09-16",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Imperium Zła - Karolina Jurga” autorstwa Karolina Jurga. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/imperium-zla"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-adhd-jak-skutecznie-wspierac-swoj-mozg-balans-t-1",
+    "title": "ADHD. Jak skutecznie wspierać swój mózg? [Balans - t.1]",
+    "author": "Cate Osborn",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „ADHD. Jak skutecznie wspierać swój mózg? [Balans - t.1]” autorstwa Cate Osborn. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/adhd-jak-skutecznie-wspierac-swoj-mozg-balans/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-cienie-przeszlosci-audiobook",
+    "title": "CIENIE PRZESZŁOŚCI - audiobook",
+    "author": "Tess Gerritsen",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CIENIE PRZESZŁOŚCI - audiobook” autorstwa Tess Gerritsen. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/cienie-przeszlosci-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-dziwna-pogoda-audiobook",
+    "title": "DZIWNA POGODA - audiobook",
+    "author": "Joe Hill",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „DZIWNA POGODA - audiobook” autorstwa Joe Hill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/dziwna-pogoda-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-gdyby-ksiazki-mogly-zabijac-audiobook",
+    "title": "GDYBY KSIĄŻKI MOGŁY ZABIJAĆ - audiobook",
+    "author": "Kate Eberle",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „GDYBY KSIĄŻKI MOGŁY ZABIJAĆ - audiobook” autorstwa Kate Eberle. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/gdyby-ksiazki-mogly-zabijac-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-lustrzane-odbicie",
+    "title": "LUSTRZANE ODBICIE",
+    "author": "Tana French",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "kryminał",
+    "description": "Premiera książki „LUSTRZANE ODBICIE” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/lustrzane-odbicie/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-lustrzane-odbicie-audiobook",
+    "title": "LUSTRZANE ODBICIE - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „LUSTRZANE ODBICIE - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/lustrzane-odbicie-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-lustrzane-odbicie-ebook",
+    "title": "LUSTRZANE ODBICIE - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „LUSTRZANE ODBICIE - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/lustrzane-odbicie-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-niecodzienne-przypadki-denny-ego-vossa-audiobook",
+    "title": "NIECODZIENNE PRZYPADKI DENNY’EGO VOSSA - audiobook",
+    "author": "Holly Kennedy",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIECODZIENNE PRZYPADKI DENNY’EGO VOSSA - audiobook” autorstwa Holly Kennedy. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/niecodzienne-przypadki-dennyego-vossa-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-pogrzebany-olbrzym-audiobook",
+    "title": "POGRZEBANY OLBRZYM - audiobook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „POGRZEBANY OLBRZYM - audiobook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/pogrzebany-olbrzym-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-powrot-ojca-chrzestnego-ebook",
+    "title": "POWRÓT OJCA CHRZESTNEGO - ebook",
+    "author": "Mario Puzo, Mark Winegardner",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „POWRÓT OJCA CHRZESTNEGO - ebook” autorstwa Mario Puzo, Mark Winegardner. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/powrot-ojca-chrzestnego-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-powrot-ojca-chrzestnego-barwione-krawedzie",
+    "title": "POWRÓT OJCA CHRZESTNEGO / barwione krawędzie",
+    "author": "Mario Puzo, Mark Winegardner",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „POWRÓT OJCA CHRZESTNEGO / barwione krawędzie” autorstwa Mario Puzo, Mark Winegardner. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/powrot-ojca-chrzestnego-barwione-krawedzie/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-spij-pij-i-oddychaj-codzienne-nawyki-ktore-zapewnia-ci-dobre-zdrowie",
     "title": "ŚPIJ, PIJ i ODDYCHAJ. Codzienne nawyki, które zapewnią Ci dobre zdrowie",
     "author": "dr Michael Breus",
@@ -8,6 +688,46 @@
     "genre": "inne",
     "description": "Premiera książki „ŚPIJ, PIJ i ODDYCHAJ. Codzienne nawyki, które zapewnią Ci dobre zdrowie” autorstwa dr Michael Breus. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/spij-pij-i-oddychaj-codzienne-nawyki-ktore-zapewnia-ci-dobre-zdrowie/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-spij-pij-i-oddychaj-codzienne-nawyki-ktore-zapewnia-ci-dobre-zdrowie-audiobook",
+    "title": "ŚPIJ, PIJ i ODDYCHAJ. Codzienne nawyki, które zapewnią Ci dobre zdrowie - audiobook",
+    "author": "dr Michael Breus",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ŚPIJ, PIJ i ODDYCHAJ. Codzienne nawyki, które zapewnią Ci dobre zdrowie - audiobook” autorstwa dr Michael Breus. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/spij-pij-i-oddychaj-codzienne-nawyki-ktore-zapewnia-ci-dobre-zdrowie-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zemsta-ojca-chrzestnego-ebook",
+    "title": "ZEMSTA OJCA CHRZESTNEGO - ebook",
+    "author": "Mario Puzo, Mark Winegardner",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZEMSTA OJCA CHRZESTNEGO - ebook” autorstwa Mario Puzo, Mark Winegardner. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zemsta-ojca-chrzestnego-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-zemsta-ojca-chrzestnego-barwione-krawedzie",
+    "title": "ZEMSTA OJCA CHRZESTNEGO / barwione krawędzie",
+    "author": "Mario Puzo, Mark Winegardner",
+    "releaseDate": "2026-09-23",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZEMSTA OJCA CHRZESTNEGO / barwione krawędzie” autorstwa Mario Puzo, Mark Winegardner. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zemsta-ojca-chrzestnego-barwione-krawedzie/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-nie-opuszczaj-mnie-ebook",
+    "title": "NIE OPUSZCZAJ MNIE - ebook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-10-07",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIE OPUSZCZAJ MNIE - ebook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-opuszczaj-mnie-ebook/"
   },
   {
     "id": "auto-wydawnictwo-albatros-bez-sladu",
@@ -20,6 +740,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/bez-sladu-2/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-bez-sladu-ebook",
+    "title": "BEZ ŚLADU - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „BEZ ŚLADU - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/bez-sladu-ebook-2/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-czule-struny",
     "title": "CZUŁE STRUNY",
     "author": "Ivy Fairbanks",
@@ -28,6 +758,36 @@
     "genre": "romans",
     "description": "Premiera książki „CZUŁE STRUNY” autorstwa Ivy Fairbanks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czule-struny/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-czule-struny-ebook",
+    "title": "CZUŁE STRUNY - ebook",
+    "author": "Ivy Fairbanks",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CZUŁE STRUNY - ebook” autorstwa Ivy Fairbanks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czule-struny-ebook/"
+  },
+  {
+    "id": "auto-czwarta-strona-druga-smierc-locke-reka-i-serce-t-1",
+    "title": "Druga śmierć Locke [Ręka i Serce - t.1]",
+    "author": "V. L. Bovalino",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Druga śmierć Locke [Ręka i Serce - t.1]” autorstwa V. L. Bovalino. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/druga-smierc-locke-reka-i-serce-t-1/"
+  },
+  {
+    "id": "auto-czwarta-strona-game-on-into-darkness-t-3",
+    "title": "Game On [Into Darkness - t.3]",
+    "author": "Navessa Allen",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Game On [Into Darkness - t.3]” autorstwa Navessa Allen. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/game-on/"
   },
   {
     "id": "auto-wydawnictwo-albatros-klara-i-slonce-wydanie-filmowe",
@@ -40,6 +800,86 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/klara-i-slonce/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-klara-i-slonce-wydanie-filmowe-ebook",
+    "title": "KLARA I SŁOŃCE/ wydanie filmowe - ebook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KLARA I SŁOŃCE/ wydanie filmowe - ebook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/klara-i-slonce-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-kolonia",
+    "title": "KOLONIA",
+    "author": "Tana French",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KOLONIA” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-2/"
+  },
+  {
+    "id": "auto-czwarta-strona-niech-sie-dzieje-magia",
+    "title": "Niech się dzieje magia",
+    "author": "Natalia Sońska",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "fantasy",
+    "description": "Premiera książki „Niech się dzieje magia” autorstwa Natalia Sońska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/niech-sie-dzieje-magia/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-o-objetosci-czasu-ii",
+    "title": "O objętości czasu II",
+    "author": "Solvej Balle",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „O objętości czasu II” autorstwa Solvej Balle. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/o-objetosci-czasu-ii/"
+  },
+  {
+    "id": "auto-czwarta-strona-obudz-sie-kopciuszku-wyd-2-zakopianska-t-1",
+    "title": "Obudź się, Kopciuszku (wyd.2) [Zakopiańska - t.1]",
+    "author": "Natalia Sońska",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Obudź się, Kopciuszku (wyd.2) [Zakopiańska - t.1]” autorstwa Natalia Sońska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/obudz-sie-kopciuszku-wyd-2-zakopianska-t-1/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-osiem-milionow-drog-do-szczescia-balans-t-2",
+    "title": "Osiem milionów dróg do szczęścia [Balans - t.2]",
+    "author": "Hiroko Yoda",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Osiem milionów dróg do szczęścia [Balans - t.2]” autorstwa Hiroko Yoda. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/osiem-milionow-drog-do-szczescia/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-pasja-seria-dziel-pisarzy-skandynawskich",
+    "title": "Pasja [Seria Dzieł Pisarzy Skandynawskich]",
+    "author": "Pirkko Saisio",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Pasja [Seria Dzieł Pisarzy Skandynawskich]” autorstwa Pirkko Saisio. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/pasja/"
+  },
+  {
+    "id": "auto-czwarta-strona-schwytaj-morderce-swiateczna-wykreslanka",
+    "title": "Schwytaj mordercę. Świąteczna wykreślanka",
+    "author": "Tim Collins",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Schwytaj mordercę. Świąteczna wykreślanka” autorstwa Tim Collins. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/schwytaj-morderce-swiateczna-wykreslanka/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-syn-nikogo",
     "title": "SYN NIKOGO",
     "author": "Yann Martel",
@@ -50,6 +890,26 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/syn-nikogo/"
   },
   {
+    "id": "auto-czwarta-strona-uwierz-w-milosc-calineczko-wyd-2-zakopianska-t-3",
+    "title": "Uwierz w miłość, Calineczko (wyd.2) [Zakopiańska - t.3]",
+    "author": "Natalia Sońska",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Uwierz w miłość, Calineczko (wyd.2) [Zakopiańska - t.3]” autorstwa Natalia Sońska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/uwierz-w-milosc-calineczko-wyd-2-zakopianska-t-3/"
+  },
+  {
+    "id": "auto-czwarta-strona-zakochaj-sie-julio-wyd-2-zakopianska-t-2",
+    "title": "Zakochaj się, Julio (wyd.2) [Zakopiańska - t.2]",
+    "author": "Natalia Sońska",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Zakochaj się, Julio (wyd.2) [Zakopiańska - t.2]” autorstwa Natalia Sońska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/zakochaj-sie-julio-wyd-2-zakopianska-t-2/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-zaproszenie",
     "title": "ZAPROSZENIE",
     "author": "Sebastian Fitzek",
@@ -58,6 +918,16 @@
     "genre": "fantasy",
     "description": "Premiera książki „ZAPROSZENIE” autorstwa Sebastian Fitzek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zaproszenie/"
+  },
+  {
+    "id": "auto-czwarta-strona-zluda",
+    "title": "Złuda",
+    "author": "Mika Modrzyńska",
+    "releaseDate": "2026-10-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Złuda” autorstwa Mika Modrzyńska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/zluda/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-lotr-i-ksiezyc-edycja-specjalna-w-zdobionej-obwolucie-z-ilustracjami-rachel-gillig",
@@ -100,6 +970,26 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/burning-bridges"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-co-po-trumpie-ameryka-na-rozdrozu-seria-reporterska",
+    "title": "Co po Trumpie? Ameryka na rozdrożu [Seria reporterska]",
+    "author": "Magdalena Górnicka-Partyka",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Co po Trumpie? Ameryka na rozdrożu [Seria reporterska]” autorstwa Magdalena Górnicka-Partyka. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/co-po-trumpie-ameryka-na-rozdrozu-seria-reporterska/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-goscie-weselni-wydanie-specjalne",
+    "title": "Goście weselni - wydanie specjalne",
+    "author": "Alison Espach",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Goście weselni - wydanie specjalne” autorstwa Alison Espach. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/goscie-weselni-wydanie-specjalne/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-keep-me-safe-agata-polte",
     "title": "Keep Me Safe - Agata Polte",
     "author": "Agata Polte",
@@ -110,6 +1000,36 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/keep-me-safe"
   },
   {
+    "id": "auto-wydawnictwo-albatros-kolonia-ebook",
+    "title": "KOLONIA - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KOLONIA - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-ostatnia-corka-ebook",
+    "title": "OSTATNIA CÓRKA - ebook",
+    "author": "Soraya Lane",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „OSTATNIA CÓRKA - ebook” autorstwa Soraya Lane. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatnia-corka-ebook/"
+  },
+  {
+    "id": "auto-czwarta-strona-pani-domu",
+    "title": "Pani domu",
+    "author": "Natalie Barelli",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Pani domu” autorstwa Natalie Barelli. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/pani-domu/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-stephen-king-instrukcja-obslugi",
     "title": "STEPHEN KING. INSTRUKCJA OBSŁUGI",
     "author": "Robert Ziębiński",
@@ -118,6 +1038,16 @@
     "genre": "inne",
     "description": "Premiera książki „STEPHEN KING. INSTRUKCJA OBSŁUGI” autorstwa Robert Ziębiński. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/stephen-king-instrukcja-obslugi/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-stephen-king-instrukcja-obslugi-ebook",
+    "title": "STEPHEN KING. INSTRUKCJA OBSŁUGI - ebook",
+    "author": "Robert Ziębiński",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „STEPHEN KING. INSTRUKCJA OBSŁUGI - ebook” autorstwa Robert Ziębiński. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/stephen-king-instrukcja-obslugi-ebook/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-the-villain-marta-kulczyna",
@@ -200,6 +1130,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/darkness-and-roses"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-dziewiec-zyc-kota-z-ksiegarni",
+    "title": "Dziewięć żyć kota z księgarni",
+    "author": "Kentaro Utsugi",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "fantasy",
+    "description": "Premiera książki „Dziewięć żyć kota z księgarni” autorstwa Kentaro Utsugi. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/dziewiec-zyc-kota-z-ksiegarni/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
     "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie",
     "author": "Vex King",
@@ -238,5 +1178,35 @@
     "genre": "romans",
     "description": "Premiera książki „SCARLETT. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”” autorstwa Alexandra Ripley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-sciana-sekretow-wiem-kto-go-zabil-ebook",
+    "title": "ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sciana-sekretow-wiem-kto-go-zabil-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-zbrodnia-prowincjonalna-historia-tragedii-ktora-wstrzasnela-pomorzem",
+    "title": "Zbrodnia prowincjonalna. Historia tragedii, która wstrząsnęła Pomorzem",
+    "author": "Agnieszka Wajszczyk",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "kryminał",
+    "description": "Premiera książki „Zbrodnia prowincjonalna. Historia tragedii, która wstrząsnęła Pomorzem” autorstwa Agnieszka Wajszczyk. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zbrodnia-prowincjonalna-historia-tragedii-ktora-wstrzasnela-pomorzem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-ostatni-intruz-ebook",
+    "title": "OSTATNI INTRUZ - ebook",
+    "author": "Tana French",
+    "releaseDate": "2026-11-25",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „OSTATNI INTRUZ - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatni-intruz-ebook/"
   }
 ]
