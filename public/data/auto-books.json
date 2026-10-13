@@ -290,6 +290,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/bezprawie-chylka-oprawa-twarda/"
   },
   {
+    "id": "auto-czwarta-strona-jej-chlopak",
+    "title": "Jej chłopak",
+    "author": "Freida McFadden",
+    "releaseDate": "2026-07-29",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Jej chłopak” autorstwa Freida McFadden. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/jej-chlopak/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-kronika-mojej-ziemskiej-wedrowki",
     "title": "Kronika mojej ziemskiej wędrówki",
     "author": "Daniel Mason",
@@ -720,6 +730,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zemsta-ojca-chrzestnego-barwione-krawedzie/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-malarz-swiata-uludy-audiobook",
+    "title": "MALARZ ŚWIATA UŁUDY - audiobook",
+    "author": "Kazuo Ishiguro",
+    "releaseDate": "2026-10-07",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „MALARZ ŚWIATA UŁUDY - audiobook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/malarz-swiata-uludy-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-nie-opuszczaj-mnie-ebook",
     "title": "NIE OPUSZCZAJ MNIE - ebook",
     "author": "Kazuo Ishiguro",
@@ -740,6 +760,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/bez-sladu-2/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-bez-sladu-audiobook",
+    "title": "BEZ ŚLADU - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „BEZ ŚLADU - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/bez-sladu-audiobook-2/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-bez-sladu-ebook",
     "title": "BEZ ŚLADU - ebook",
     "author": "Tana French",
@@ -758,6 +788,16 @@
     "genre": "romans",
     "description": "Premiera książki „CZUŁE STRUNY” autorstwa Ivy Fairbanks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czule-struny/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-czule-struny-audiobook",
+    "title": "CZUŁE STRUNY - audiobook",
+    "author": "Ivy Fairbanks",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CZUŁE STRUNY - audiobook” autorstwa Ivy Fairbanks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czule-struny-audiobook/"
   },
   {
     "id": "auto-wydawnictwo-albatros-czule-struny-ebook",
@@ -808,16 +848,6 @@
     "genre": "inne",
     "description": "Premiera książki „KLARA I SŁOŃCE/ wydanie filmowe - ebook” autorstwa Kazuo Ishiguro. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/klara-i-slonce-ebook/"
-  },
-  {
-    "id": "auto-wydawnictwo-albatros-kolonia",
-    "title": "KOLONIA",
-    "author": "Tana French",
-    "releaseDate": "2026-10-14",
-    "publisher": "Wydawnictwo Albatros",
-    "genre": "inne",
-    "description": "Premiera książki „KOLONIA” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-2/"
   },
   {
     "id": "auto-czwarta-strona-niech-sie-dzieje-magia",
@@ -890,6 +920,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/syn-nikogo/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-syn-nikogo-audiobook",
+    "title": "SYN NIKOGO - audiobook",
+    "author": "Yann Martel",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „SYN NIKOGO - audiobook” autorstwa Yann Martel. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/syn-nikogo-audiobook/"
+  },
+  {
     "id": "auto-czwarta-strona-uwierz-w-milosc-calineczko-wyd-2-zakopianska-t-3",
     "title": "Uwierz w miłość, Calineczko (wyd.2) [Zakopiańska - t.3]",
     "author": "Natalia Sońska",
@@ -920,6 +960,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zaproszenie/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-zaproszenie-audiobook",
+    "title": "ZAPROSZENIE - audiobook",
+    "author": "Sebastian Fitzek",
+    "releaseDate": "2026-10-14",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ZAPROSZENIE - audiobook” autorstwa Sebastian Fitzek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zaproszenie-audiobook/"
+  },
+  {
     "id": "auto-czwarta-strona-zluda",
     "title": "Złuda",
     "author": "Mika Modrzyńska",
@@ -928,6 +978,16 @@
     "genre": "inne",
     "description": "Premiera książki „Złuda” autorstwa Mika Modrzyńska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://czwartastrona.pl/produkt/zluda/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-pudelko-w-ksztalcie-serca-audiobook",
+    "title": "Pudełko w kształcie serca - audiobook",
+    "author": "Joe Hill",
+    "releaseDate": "2026-10-22",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „Pudełko w kształcie serca - audiobook” autorstwa Joe Hill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/pudelko-w-ksztalcie-serca-audiobook/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-lotr-i-ksiezyc-edycja-specjalna-w-zdobionej-obwolucie-z-ilustracjami-rachel-gillig",
@@ -1000,6 +1060,26 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/keep-me-safe"
   },
   {
+    "id": "auto-wydawnictwo-albatros-kolonia",
+    "title": "KOLONIA",
+    "author": "Tana French",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KOLONIA” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-2/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-kolonia-audiobook",
+    "title": "KOLONIA - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „KOLONIA - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-kolonia-ebook",
     "title": "KOLONIA - ebook",
     "author": "Tana French",
@@ -1008,6 +1088,16 @@
     "genre": "inne",
     "description": "Premiera książki „KOLONIA - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-ostatnia-corka-audiobook",
+    "title": "OSTATNIA CÓRKA - audiobook",
+    "author": "Soraya Lane",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „OSTATNIA CÓRKA - audiobook” autorstwa Soraya Lane. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatnia-corka-audiobook/"
   },
   {
     "id": "auto-wydawnictwo-albatros-ostatnia-corka-ebook",
@@ -1028,6 +1118,26 @@
     "genre": "inne",
     "description": "Premiera książki „Pani domu” autorstwa Natalie Barelli. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://czwartastrona.pl/produkt/pani-domu/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-rhett-butler-kontynuacja-przeminelo-z-wiatrem-audiobook",
+    "title": "RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM” - audiobook",
+    "author": "Donald McCaig",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM” - audiobook” autorstwa Donald McCaig. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/rhett-butler-kontynuacja-przeminelo-z-wiatrem-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-scarlett-kontynuacja-przeminelo-z-wiatrem-audiobook",
+    "title": "SCARLETT. KONTYNUACJA \"PRZEMINĘŁO Z WIATREM\" - audiobook",
+    "author": "Alexandra Ripley",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „SCARLETT. KONTYNUACJA \"PRZEMINĘŁO Z WIATREM\" - audiobook” autorstwa Alexandra Ripley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem-audiobook/"
   },
   {
     "id": "auto-wydawnictwo-albatros-stephen-king-instrukcja-obslugi",
@@ -1130,6 +1240,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/darkness-and-roses"
   },
   {
+    "id": "auto-wydawnictwo-albatros-drzewo-aniola-barwione-krawedzie",
+    "title": "DRZEWO ANIOŁA/barwione krawędzie",
+    "author": "Lucinda Riley",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „DRZEWO ANIOŁA/barwione krawędzie” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/drzewo-aniola/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-dziewiec-zyc-kota-z-ksiegarni",
     "title": "Dziewięć żyć kota z księgarni",
     "author": "Kentaro Utsugi",
@@ -1148,6 +1268,16 @@
     "genre": "inne",
     "description": "Premiera książki „NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie” autorstwa Vex King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
+    "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie",
+    "author": "Vex King",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie” autorstwa Vex King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie-2/"
   },
   {
     "id": "auto-wydawnictwo-albatros-ptaki-ciernistych-krzewow-wydanie-specjalne",
@@ -1208,5 +1338,15 @@
     "genre": "inne",
     "description": "Premiera książki „OSTATNI INTRUZ - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatni-intruz-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-czy-juz-to-kiedys-mowilem",
+    "title": "CZY JUŻ TO KIEDYŚ MÓWIŁEM?",
+    "author": "Sam Neill",
+    "releaseDate": "2026-11-30",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "literatura faktu",
+    "description": "Premiera książki „CZY JUŻ TO KIEDYŚ MÓWIŁEM?” autorstwa Sam Neill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czy-juz-to-kiedys-mowilem/"
   }
 ]
