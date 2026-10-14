@@ -1140,6 +1140,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem-audiobook/"
   },
   {
+    "id": "auto-czwarta-strona-sezon-na-zemste",
+    "title": "Sezon na zemstę",
+    "author": "Morgan Elizabeth",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "romans",
+    "description": "Premiera książki „Sezon na zemstę” autorstwa Morgan Elizabeth. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/sezon-na-zemste/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-stephen-king-instrukcja-obslugi",
     "title": "STEPHEN KING. INSTRUKCJA OBSŁUGI",
     "author": "Robert Ziębiński",
@@ -1158,6 +1168,26 @@
     "genre": "inne",
     "description": "Premiera książki „STEPHEN KING. INSTRUKCJA OBSŁUGI - ebook” autorstwa Robert Ziębiński. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/stephen-king-instrukcja-obslugi-ebook/"
+  },
+  {
+    "id": "auto-czwarta-strona-stracone-w-ogniu",
+    "title": "Stracone w ogniu",
+    "author": "Izabela Janiszewska",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "kryminał",
+    "description": "Premiera książki „Stracone w ogniu” autorstwa Izabela Janiszewska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/stracone-w-ogniu/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-tajne-sluzby-watykanu",
+    "title": "Tajne służby Watykanu",
+    "author": "Yvonnick Denoël",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "thriller",
+    "description": "Premiera książki „Tajne służby Watykanu” autorstwa Yvonnick Denoël. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/tajne-sluzby-watykanu/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-the-villain-marta-kulczyna",
@@ -1318,6 +1348,16 @@
     "genre": "inne",
     "description": "Premiera książki „ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - ebook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sciana-sekretow-wiem-kto-go-zabil-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-tajlandia-wiecej-niz-raj-seria-podroznicza",
+    "title": "Tajlandia. Więcej niż raj [Seria Podróżnicza]",
+    "author": "Aleksandra Tabor",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Tajlandia. Więcej niż raj [Seria Podróżnicza]” autorstwa Aleksandra Tabor. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/tajlandia-wiecej-niz-raj-seria-podroznicza/"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-zbrodnia-prowincjonalna-historia-tragedii-ktora-wstrzasnela-pomorzem",
