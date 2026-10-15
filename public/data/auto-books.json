@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-czwarta-strona-idealny-syn",
+    "title": "Idealny syn",
+    "author": "Freida McFadden",
+    "releaseDate": "2026-01-14",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Idealny syn” autorstwa Freida McFadden. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/idealny-syn/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-na-tej-ziemi-seria-dziel-pisarzy-skandynawskich",
     "title": "Na tej ziemi [Seria Dzieł Pisarzy Skandynawskich]",
     "author": "Theis Ørntoft",
@@ -40,6 +50,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/lurking-darkness-outlet"
   },
   {
+    "id": "auto-czwarta-strona-lokatorka",
+    "title": "Lokatorka",
+    "author": "Freida McFadden",
+    "releaseDate": "2026-03-11",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Lokatorka” autorstwa Freida McFadden. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/lokatorka/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda",
     "title": "Miasto i woda. Wodociągi i Kanalizacja w Poznaniu 1865-2025 - Oprawa twarda",
     "author": "Miron Urbaniak",
@@ -60,6 +80,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/caught-up/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-dziwne-stany-ameryki",
+    "title": "Dziwne Stany Ameryki",
+    "author": "Martyna F. Zachorska",
+    "releaseDate": "2026-03-25",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Dziwne Stany Ameryki” autorstwa Martyna F. Zachorska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/dziwne-stany-ameryki/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-po-prostu-emma-outlet-monika-pawelec-wijas",
     "title": "Po prostu Emma - Outlet - Monika Pawelec-Wijas",
     "author": "Monika Pawelec-Wijas",
@@ -78,6 +108,16 @@
     "genre": "fantasy",
     "description": "Premiera książki „Gniew upadłych - Outlet - Amber V. Nicole” autorstwa Amber V. Nicole. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/gniew-upadlych-outlet"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-girl-on-girl-jak-popkultura-zwrocila-kobiety-przeciw-sobie",
+    "title": "Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie",
+    "author": "Sophie Gilbert",
+    "releaseDate": "2026-05-06",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie” autorstwa Sophie Gilbert. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/girl-on-girl-jak-popkultura-zwrocila-kobiety-przeciw-sobie/"
   },
   {
     "id": "auto-wydawnictwo-albatros-corka-z-kuby",
@@ -1090,6 +1130,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kolonia-ebook/"
   },
   {
+    "id": "auto-czwarta-strona-odnajde-cie-w-te-swieta",
+    "title": "Odnajdę cię w te święta",
+    "author": "Agata Przybyłek",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Odnajdę cię w te święta” autorstwa Agata Przybyłek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/odnajde-cie-w-te-swieta/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-ostatnia-corka-audiobook",
     "title": "OSTATNIA CÓRKA - audiobook",
     "author": "Soraya Lane",
@@ -1198,6 +1248,16 @@
     "genre": "romans",
     "description": "Premiera książki „The Villain - Marta Kulczyna” autorstwa Marta Kulczyna. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/the-villain"
+  },
+  {
+    "id": "auto-czwarta-strona-tylko-nie-swieta",
+    "title": "Tylko nie święta",
+    "author": "B. A. Feder",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Tylko nie święta” autorstwa B. A. Feder. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/tylko-nie-swieta/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-god-of-war-rina-kent",
