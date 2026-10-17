@@ -170,6 +170,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/girl-on-girl-jak-popkultura-zwrocila-kobiety-przeciw-sobie/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-zapiski-o-twoim-zniknieciu",
+    "title": "Zapiski o twoim zniknięciu",
+    "author": "Alison Espach",
+    "releaseDate": "2026-05-06",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Zapiski o twoim zniknięciu” autorstwa Alison Espach. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zapiski-o-twoim-zniknieciu/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-corka-z-kuby",
     "title": "CÓRKA Z KUBY",
     "author": "Soraya Lane",
@@ -438,6 +448,16 @@
     "genre": "romans",
     "description": "Premiera książki „Better Than Him - Angelika Kołodziej” autorstwa Angelika Kołodziej. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/better-than-him"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-klub-zon-seryjnych-mordercow",
+    "title": "Klub żon seryjnych morderców",
+    "author": "Elizabeth Arnott",
+    "releaseDate": "2026-08-12",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "kryminał",
+    "description": "Premiera książki „Klub żon seryjnych morderców” autorstwa Elizabeth Arnott. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/klub-zon-seryjnych-mordercow/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-chasing-the-wild-elliott-rose",
@@ -1430,6 +1450,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/dziewiec-zyc-kota-z-ksiegarni/"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-echoes-steph-macca",
+    "title": "Echoes - Steph Macca",
+    "author": "Steph Macca",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Echoes - Steph Macca” autorstwa Steph Macca. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/echoes"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
     "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie",
     "author": "Vex King",
@@ -1448,6 +1478,26 @@
     "genre": "inne",
     "description": "Premiera książki „NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie” autorstwa Vex King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie-2/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-po-polnocy",
+    "title": "PO PÓŁNOCY",
+    "author": "Daphne du Maurier",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „PO PÓŁNOCY” autorstwa Daphne du Maurier. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/po-polnocy/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-po-polnocy-ebook",
+    "title": "PO PÓŁNOCY - ebook",
+    "author": "Daphne du Maurier",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „PO PÓŁNOCY - ebook” autorstwa Daphne du Maurier. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/po-polnocy-ebook/"
   },
   {
     "id": "auto-wydawnictwo-albatros-ptaki-ciernistych-krzewow-wydanie-specjalne",
@@ -1518,6 +1568,16 @@
     "genre": "romans",
     "description": "Premiera książki „Visible Obsession - Zofia Czechowska” autorstwa Zofia Czechowska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/visible-obsession"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-all-the-lies-s-t-abby",
+    "title": "All the Lies - S.T. Abby",
+    "author": "S.T. Abby",
+    "releaseDate": "2026-11-19",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "kryminał",
+    "description": "Premiera książki „All the Lies - S.T. Abby” autorstwa S.T. Abby. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/all-the-lies-1"
   },
   {
     "id": "auto-wydawnictwo-albatros-ostatni-intruz-ebook",
