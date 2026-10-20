@@ -120,6 +120,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/born-of-death-edycja-ilustrowana-outlet"
   },
   {
+    "id": "auto-czwarta-strona-moze-w-innym-zyciu",
+    "title": "Może w innym życiu",
+    "author": "Taylor Jenkins Reid",
+    "releaseDate": "2026-04-08",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Może w innym życiu” autorstwa Taylor Jenkins Reid. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/moze-w-innym-zyciu/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-po-prostu-emma-outlet-monika-pawelec-wijas",
     "title": "Po prostu Emma - Outlet - Monika Pawelec-Wijas",
     "author": "Monika Pawelec-Wijas",
@@ -370,6 +380,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/poznan-historie-nieznane-i-zapomniane/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-wyspa-latajacych-kobiet",
+    "title": "Wyspa latających kobiet",
+    "author": "Marta Lamalfa",
+    "releaseDate": "2026-07-01",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Wyspa latających kobiet” autorstwa Marta Lamalfa. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/wyspa-latajacych-kobiet/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-moj-kumpel-jest-dziewczyna-edycja-ilustrowana-outlet-weronika-ancerowicz",
     "title": "Mój kumpel jest dziewczyną - edycja ilustrowana - Outlet - Weronika Ancerowicz",
     "author": "Weronika Ancerowicz",
@@ -388,6 +408,16 @@
     "genre": "young adult",
     "description": "Premiera książki „Mój kumpel jest dziewczyną - edycja ilustrowana - Weronika Ancerowicz” autorstwa Weronika Ancerowicz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/moj-kumpel-jest-dziewczyna-ilustrowana"
+  },
+  {
+    "id": "auto-czwarta-strona-bezprawie-joanna-chylka-t-20-oprawa-miekka",
+    "title": "Bezprawie [Joanna Chyłka t.20] - oprawa miękka",
+    "author": "Remigiusz Mróz",
+    "releaseDate": "2026-07-15",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Bezprawie [Joanna Chyłka t.20] - oprawa miękka” autorstwa Remigiusz Mróz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/bezprawie-chylka-oprawa-miekka/"
   },
   {
     "id": "auto-czwarta-strona-wladca-lakomstwa-wladcy-grzechu",
@@ -570,6 +600,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/heated-rivalry-tw"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-istoty-zalezne",
+    "title": "Istoty zależne",
+    "author": "Anna Cieplak",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Istoty zależne” autorstwa Anna Cieplak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/istoty-zalezne/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-kryptonim-kawki",
     "title": "KRYPTONIM KAWKI",
     "author": "Ken Follett",
@@ -578,6 +618,16 @@
     "genre": "thriller",
     "description": "Premiera książki „KRYPTONIM KAWKI” autorstwa Ken Follett. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/kryptonim-kawki/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-oczy-sa-najsmaczniejsze",
+    "title": "Oczy są najsmaczniejsze",
+    "author": "Monika Kim",
+    "releaseDate": "2026-08-26",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Oczy są najsmaczniejsze” autorstwa Monika Kim. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/oczy-sa-najsmaczniejsze/"
   },
   {
     "id": "auto-czwarta-strona-poczekam-z-toba",
@@ -598,6 +648,16 @@
     "genre": "inne",
     "description": "Premiera książki „Skradzione piękno” autorstwa Diana Brzezińska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://czwartastrona.pl/produkt/skradzione-piekno/"
+  },
+  {
+    "id": "auto-czwarta-strona-swiat-jest-teatrem-raport-t-2",
+    "title": "Świat jest teatrem [Raport t.2]",
+    "author": "Remigiusz Mróz",
+    "releaseDate": "2026-08-26",
+    "publisher": "Czwarta Strona",
+    "genre": "kryminał",
+    "description": "Premiera książki „Świat jest teatrem [Raport t.2]” autorstwa Remigiusz Mróz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/swiat-jest-teatrem/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-demon-i-swiatlo-axie-oh",
@@ -1198,6 +1258,16 @@
     "genre": "young adult",
     "description": "Premiera książki „Keep Me Safe - Agata Polte” autorstwa Agata Polte. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/keep-me-safe"
+  },
+  {
+    "id": "auto-czwarta-strona-kochac-wampira-to-totalny-chaos-totalny-chaos-t-1",
+    "title": "Kochać wampira to totalny chaos [Totalny chaos - t.1]",
+    "author": "Aura Hayes",
+    "releaseDate": "2026-10-28",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Kochać wampira to totalny chaos [Totalny chaos - t.1]” autorstwa Aura Hayes. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/kochac-wampira-to-totalny-chaos-totalny-chaos-t-1/"
   },
   {
     "id": "auto-wydawnictwo-albatros-kolonia",
