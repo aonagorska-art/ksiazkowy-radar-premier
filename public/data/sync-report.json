@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-20",
-  "checked": 49,
-  "warnings": [],
+  "updatedAt": "2026-10-21",
+  "checked": 47,
+  "warnings": [
+    {
+      "id": "hype-eldritch",
+      "publisherUrl": "https://www.wydawnictwofilia.pl/Ksiazka/1858",
+      "message": "fetch failed"
+    },
+    {
+      "id": "hype-threshing-day",
+      "publisherUrl": "https://www.wydawnictwofilia.pl/Ksiazka/1870",
+      "message": "fetch failed"
+    }
+  ],
   "changes": []
 }
