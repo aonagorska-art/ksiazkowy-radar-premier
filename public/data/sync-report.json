@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "checked": 47,
   "warnings": [
     {
-      "id": "hype-eldritch",
-      "publisherUrl": "https://www.wydawnictwofilia.pl/Ksiazka/1858",
-      "message": "fetch failed"
+      "id": "uroboros-ksiega-utraconych-godzin",
+      "publisherUrl": "https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html",
+      "message": "HTTP 403"
     },
     {
-      "id": "hype-threshing-day",
-      "publisherUrl": "https://www.wydawnictwofilia.pl/Ksiazka/1870",
-      "message": "fetch failed"
+      "id": "uroboros-dwor-rozbitej-harmonii",
+      "publisherUrl": "https://www.gwfoksal.pl/cykl-walkirii-dwor-rozbitej-harmonii-tom-6-sarah-j-maas-sku26ee94f57627ac2f512d.html",
+      "message": "HTTP 403"
     }
   ],
   "changes": []
