@@ -1190,6 +1190,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/zluda/"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-piekno-bolu-ii-wydanie-georgia-cates",
+    "title": "Piękno bólu - II wydanie - Georgia Cates",
+    "author": "Georgia Cates",
+    "releaseDate": "2026-10-22",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Piękno bólu - II wydanie - Georgia Cates” autorstwa Georgia Cates. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/piekno-bolu-ii-wydanie"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-pudelko-w-ksztalcie-serca-audiobook",
     "title": "Pudełko w kształcie serca - audiobook",
     "author": "Joe Hill",
@@ -1658,6 +1668,16 @@
     "genre": "kryminał",
     "description": "Premiera książki „All the Lies - S.T. Abby” autorstwa S.T. Abby. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/all-the-lies-1"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-odlamki-burzy-thea-guanzon",
+    "title": "Odłamki Burzy - Thea Guanzon",
+    "author": "Thea Guanzon",
+    "releaseDate": "2026-11-24",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Odłamki Burzy - Thea Guanzon” autorstwa Thea Guanzon. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/odlamki-burzy"
   },
   {
     "id": "auto-wydawnictwo-albatros-ostatni-intruz-ebook",
