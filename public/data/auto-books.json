@@ -1210,6 +1210,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/pudelko-w-ksztalcie-serca-audiobook/"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-blue-shirt-edycja-ilustrowana-julia-popiel",
+    "title": "Blue Shirt - edycja ilustrowana - Julia Popiel",
+    "author": "Julia Popiel",
+    "releaseDate": "2026-10-23",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Blue Shirt - edycja ilustrowana - Julia Popiel” autorstwa Julia Popiel. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/blue-shirt-ilustrowana"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-lotr-i-ksiezyc-edycja-specjalna-w-zdobionej-obwolucie-z-ilustracjami-rachel-gillig",
     "title": "“Łotr i Księżyc” - edycja specjalna w zdobionej obwolucie z ilustracjami - Rachel Gillig",
     "author": "Rachel Gillig",
@@ -1528,6 +1538,16 @@
     "genre": "inne",
     "description": "Premiera książki „DRZEWO ANIOŁA/barwione krawędzie” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/drzewo-aniola/"
+  },
+  {
+    "id": "auto-czwarta-strona-dwanascie-swiatecznych-randek-kalendarz-adwentowy",
+    "title": "Dwanaście świątecznych randek. Kalendarz adwentowy",
+    "author": "Ruby Winter",
+    "releaseDate": "2026-11-12",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Dwanaście świątecznych randek. Kalendarz adwentowy” autorstwa Ruby Winter. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/dwanascie-swiatecznych-randek-kalendarz-adwentowy/"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-dziewiec-zyc-kota-z-ksiegarni",
