@@ -420,6 +420,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/bezprawie-chylka-oprawa-miekka/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-gory-stan-umyslu-wyd-2",
+    "title": "Góry. Stan umysłu (wyd. 2)",
+    "author": "Robert Macfarlane",
+    "releaseDate": "2026-07-15",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Góry. Stan umysłu (wyd. 2)” autorstwa Robert Macfarlane. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/gory-stan-umyslu/"
+  },
+  {
     "id": "auto-czwarta-strona-wladca-lakomstwa-wladcy-grzechu",
     "title": "Władca łakomstwa [Władcy Grzechu]",
     "author": "Ana Huang",
@@ -1435,7 +1445,7 @@
     "author": "Yvonnick Denoël",
     "releaseDate": "2026-10-28",
     "publisher": "Wydawnictwo Poznańskie",
-    "genre": "thriller",
+    "genre": "inne",
     "description": "Premiera książki „Tajne służby Watykanu” autorstwa Yvonnick Denoël. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/tajne-sluzby-watykanu/"
   },
