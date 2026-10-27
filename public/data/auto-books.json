@@ -20,13 +20,13 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/na-tej-ziemi-seria-dziel-pisarzy-skandynawskich/"
   },
   {
-    "id": "auto-czwarta-strona-rozpacz",
-    "title": "Rozpacz",
+    "id": "auto-czwarta-strona-rozpacz-seria-z-wiktoria-blonska-t-1",
+    "title": "Rozpacz [Seria z Wiktorią Błońską - t.1]",
     "author": "Klaudia Muniak",
     "releaseDate": "2026-01-14",
     "publisher": "Czwarta Strona",
     "genre": "kryminał",
-    "description": "Premiera książki „Rozpacz” autorstwa Klaudia Muniak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "description": "Premiera książki „Rozpacz [Seria z Wiktorią Błońską - t.1]” autorstwa Klaudia Muniak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://czwartastrona.pl/produkt/rozpacz/"
   },
   {
@@ -350,6 +350,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/hiszpania-apetyt-na-slonce/"
   },
   {
+    "id": "auto-czwarta-strona-krzywda-seria-z-wiktoria-blonska-t-2",
+    "title": "Krzywda [Seria z Wiktorią Błońską - t.2]",
+    "author": "Klaudia Muniak",
+    "releaseDate": "2026-06-17",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Krzywda [Seria z Wiktorią Błońską - t.2]” autorstwa Klaudia Muniak. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/krzywda/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-prawie-wieczor-wciaz-jasno",
     "title": "Prawie wieczór, wciąż jasno",
     "author": "Maja Linea Ernst",
@@ -368,6 +378,16 @@
     "genre": "romans",
     "description": "Premiera książki „Red Shirt - edycja ilustrowana - Outlet - Julia Popiel” autorstwa Julia Popiel. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/red-shirt-edycja-ilustrowana-outlet"
+  },
+  {
+    "id": "auto-czwarta-strona-deadline-na-milosc",
+    "title": "Deadline na miłość",
+    "author": "Natalia Sońska",
+    "releaseDate": "2026-07-01",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Deadline na miłość” autorstwa Natalia Sońska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/deadline-na-milosc/"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-poznan-historie-nieznane-i-zapomniane",
@@ -1260,6 +1280,26 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/agrypa/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-agrypa-audiobook",
+    "title": "Agrypa - audiobook",
+    "author": "Robert Harris",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „Agrypa - audiobook” autorstwa Robert Harris. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/agrypa-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-agrypa-ebook",
+    "title": "Agrypa - ebook",
+    "author": "Robert Harris",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „Agrypa - ebook” autorstwa Robert Harris. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/agrypa-ebook/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-burning-bridges-ewa-remek",
     "title": "Burning Bridges - Ewa Remek",
     "author": "Ewa Remek",
@@ -1580,6 +1620,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/echoes"
   },
   {
+    "id": "auto-wydawnictwo-albatros-lata-zmian",
+    "title": "LATA ZMIAN",
+    "author": "Elizabeth Jane Howard",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „LATA ZMIAN” autorstwa Elizabeth Jane Howard. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/lata-zmian/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
     "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie",
     "author": "Vex King",
@@ -1650,6 +1700,36 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-sekret-listu-ebook",
+    "title": "SEKRET LISTU - ebook",
+    "author": "Lucinda Riley",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „SEKRET LISTU - ebook” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sekret-listu-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-sekret-listu-ilustrowane-brzegi",
+    "title": "SEKRET LISTU/ ilustrowane brzegi",
+    "author": "Lucinda Riley",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „SEKRET LISTU/ ilustrowane brzegi” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sekret-listu/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-sciana-sekretow-wiem-kto-go-zabil-audiobook",
+    "title": "ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sciana-sekretow-wiem-kto-go-zabil-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-sciana-sekretow-wiem-kto-go-zabil-ebook",
     "title": "ŚCIANA SEKRETÓW. WIEM, KTO GO ZABIŁ - ebook",
     "author": "Tana French",
@@ -1670,6 +1750,36 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/tajlandia-wiecej-niz-raj-seria-podroznicza/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-taka-mila-dziewczyna",
+    "title": "TAKA MIŁA DZIEWCZYNA",
+    "author": "Andrea Mara",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TAKA MIŁA DZIEWCZYNA” autorstwa Andrea Mara. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/taka-mila-dziewczyna/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-taka-mila-dziewczyna-audiobook",
+    "title": "TAKA MIŁA DZIEWCZYNA - audiobook",
+    "author": "Andrea Mara",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TAKA MIŁA DZIEWCZYNA - audiobook” autorstwa Andrea Mara. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/taka-mila-dziewczyna-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-taka-mila-dziewczyna-ebook",
+    "title": "TAKA MIŁA DZIEWCZYNA - ebook",
+    "author": "Andrea Mara",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TAKA MIŁA DZIEWCZYNA - ebook” autorstwa Andrea Mara. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/taka-mila-dziewczyna-ebook/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-zbrodnia-prowincjonalna-historia-tragedii-ktora-wstrzasnela-pomorzem",
     "title": "Zbrodnia prowincjonalna. Historia tragedii, która wstrząsnęła Pomorzem",
     "author": "Agnieszka Wajszczyk",
@@ -1678,6 +1788,26 @@
     "genre": "kryminał",
     "description": "Premiera książki „Zbrodnia prowincjonalna. Historia tragedii, która wstrząsnęła Pomorzem” autorstwa Agnieszka Wajszczyk. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zbrodnia-prowincjonalna-historia-tragedii-ktora-wstrzasnela-pomorzem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-mala-ksiega-spokoju-wedlug-wielkiej-pandy",
+    "title": "MAŁA KSIĘGA SPOKOJU WEDŁUG WIELKIEJ PANDY",
+    "author": "James Norbury",
+    "releaseDate": "2026-11-18",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „MAŁA KSIĘGA SPOKOJU WEDŁUG WIELKIEJ PANDY” autorstwa James Norbury. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/mala-ksiega-spokoju-wedlug-wielkiej-pandy/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-strazak-audiobook",
+    "title": "STRAŻAK - audiobook",
+    "author": "Joe Hill",
+    "releaseDate": "2026-11-18",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „STRAŻAK - audiobook” autorstwa Joe Hill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/strazak-audiobook/"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-visible-obsession-zofia-czechowska",
@@ -1710,6 +1840,36 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/odlamki-burzy"
   },
   {
+    "id": "auto-wydawnictwo-albatros-basnie-braci-grimm-dla-doroslych-i-mlodziezy-bez-cenzury-ebook",
+    "title": "BAŚNIE BRACI GRIMM DLA DOROSŁYCH I MŁODZIEŻY. BEZ CENZURY - ebook",
+    "author": "Phillip Pullman",
+    "releaseDate": "2026-11-25",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "young adult",
+    "description": "Premiera książki „BAŚNIE BRACI GRIMM DLA DOROSŁYCH I MŁODZIEŻY. BEZ CENZURY - ebook” autorstwa Phillip Pullman. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/basnie-braci-grimm-dla-doroslych-i-mlodziezy-bez-cenzury-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-basnie-braci-grimm-dla-doroslych-i-mlodziezy-bez-cenzury-ilustrowane-krawedzie",
+    "title": "BAŚNIE BRACI GRIMM DLA DOROSŁYCH I MŁODZIEŻY. BEZ CENZURY (ilustrowane krawędzie)",
+    "author": "Phillip Pullman",
+    "releaseDate": "2026-11-25",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "young adult",
+    "description": "Premiera książki „BAŚNIE BRACI GRIMM DLA DOROSŁYCH I MŁODZIEŻY. BEZ CENZURY (ilustrowane krawędzie)” autorstwa Phillip Pullman. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/basnie-braci-grimm-dla-doroslych-i-mlodziezy-bez-cenzury/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-ostatni-intruz-audiobook",
+    "title": "OSTATNI INTRUZ - audiobook",
+    "author": "Tana French",
+    "releaseDate": "2026-11-25",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „OSTATNI INTRUZ - audiobook” autorstwa Tana French. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatni-intruz-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-ostatni-intruz-ebook",
     "title": "OSTATNI INTRUZ - ebook",
     "author": "Tana French",
@@ -1728,5 +1888,35 @@
     "genre": "literatura faktu",
     "description": "Premiera książki „CZY JUŻ TO KIEDYŚ MÓWIŁEM?” autorstwa Sam Neill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czy-juz-to-kiedys-mowilem/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-czy-juz-to-kiedys-mowilem-audiobook",
+    "title": "CZY JUŻ TO KIEDYŚ MÓWIŁEM? - audiobook",
+    "author": "Sam Neill",
+    "releaseDate": "2026-11-30",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CZY JUŻ TO KIEDYŚ MÓWIŁEM? - audiobook” autorstwa Sam Neill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czy-juz-to-kiedys-mowilem-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-czy-juz-to-kiedys-mowilem-ebook",
+    "title": "CZY JUŻ TO KIEDYŚ MÓWIŁEM? - ebook",
+    "author": "Sam Neill",
+    "releaseDate": "2026-11-30",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „CZY JUŻ TO KIEDYŚ MÓWIŁEM? - ebook” autorstwa Sam Neill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/czy-juz-to-kiedys-mowilem-ebook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
+    "title": "MAŁA KSIĘGA NADZIEI WEDŁUG MAŁEGO SMOKA",
+    "author": "James Norbury",
+    "releaseDate": "2027-01-13",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "fantasy",
+    "description": "Premiera książki „MAŁA KSIĘGA NADZIEI WEDŁUG MAŁEGO SMOKA” autorstwa James Norbury. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/mala-ksiega-nadziei-wedlug-malego-smoka/"
   }
 ]
