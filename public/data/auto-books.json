@@ -1968,5 +1968,35 @@
     "genre": "fantasy",
     "description": "Premiera książki „MAŁA KSIĘGA NADZIEI WEDŁUG MAŁEGO SMOKA” autorstwa James Norbury. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/mala-ksiega-nadziei-wedlug-malego-smoka/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-orlando-uniwersum-siedmiu-siostr",
+    "title": "ORLANDO. UNIWERSUM \"SIEDMIU SIÓSTR\"",
+    "author": "Harry Whittaker, Lucinda Riley",
+    "releaseDate": "2027-01-27",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „ORLANDO. UNIWERSUM \"SIEDMIU SIÓSTR\"” autorstwa Harry Whittaker, Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/orlando-uniwersum-siedmiu-siostr/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-to-jej-wina",
+    "title": "TO JEJ WINA",
+    "author": "Andrea Mara",
+    "releaseDate": "2027-02-10",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TO JEJ WINA” autorstwa Andrea Mara. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/to-jej-wina/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-to-jej-wina-ebook",
+    "title": "TO JEJ WINA - ebook",
+    "author": "Andrea Mara",
+    "releaseDate": "2027-02-10",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „TO JEJ WINA - ebook” autorstwa Andrea Mara. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/to-jej-wina-ebook/"
   }
 ]
