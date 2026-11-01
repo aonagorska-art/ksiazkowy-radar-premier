@@ -180,6 +180,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/girl-on-girl-jak-popkultura-zwrocila-kobiety-przeciw-sobie/"
   },
   {
+    "id": "auto-czwarta-strona-zamkniete-w-lodzie",
+    "title": "Zamknięte w lodzie",
+    "author": "Izabela Janiszewska",
+    "releaseDate": "2026-05-06",
+    "publisher": "Czwarta Strona",
+    "genre": "kryminał",
+    "description": "Premiera książki „Zamknięte w lodzie” autorstwa Izabela Janiszewska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/zamkniete-w-lodzie/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-zapiski-o-twoim-zniknieciu",
     "title": "Zapiski o twoim zniknięciu",
     "author": "Alison Espach",
@@ -288,6 +298,16 @@
     "genre": "inne",
     "description": "Premiera książki „ZIELONA MILA” autorstwa Stephen King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zielona-mila-duzym-drukiem/"
+  },
+  {
+    "id": "auto-czwarta-strona-dobra-samarytanka",
+    "title": "Dobra samarytanka",
+    "author": "John Marrs",
+    "releaseDate": "2026-05-20",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Dobra samarytanka” autorstwa John Marrs. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/dobra-samarytanka/"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-pod-woda",
@@ -868,6 +888,16 @@
     "genre": "inne",
     "description": "Premiera książki „GDYBY KSIĄŻKI MOGŁY ZABIJAĆ - audiobook” autorstwa Kate Eberle. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/gdyby-ksiazki-mogly-zabijac-audiobook/"
+  },
+  {
+    "id": "auto-czwarta-strona-juniper-hill-grzechy-edenow-t-2",
+    "title": "Juniper Hill [Grzechy Edenów t.2]",
+    "author": "Devney Perry",
+    "releaseDate": "2026-09-23",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Juniper Hill [Grzechy Edenów t.2]” autorstwa Devney Perry. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/juniper-hill-grzechy-edenow-t-2/"
   },
   {
     "id": "auto-wydawnictwo-albatros-lustrzane-odbicie",
