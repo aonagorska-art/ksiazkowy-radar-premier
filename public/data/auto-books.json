@@ -550,6 +550,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/klub-zon-seryjnych-mordercow/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-roza-polnocy-barwione-krawedzie",
+    "title": "RÓŻA PÓŁNOCY/ barwione krawędzie",
+    "author": "Lucinda Riley",
+    "releaseDate": "2026-08-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „RÓŻA PÓŁNOCY/ barwione krawędzie” autorstwa Lucinda Riley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/roza-polnocy/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-chasing-the-wild-elliott-rose",
     "title": "Chasing the Wild - Elliott Rose",
     "author": "Elliott Rose",
@@ -1460,6 +1470,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/pani-domu/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-rhett-butler-kontynuacja-przeminelo-z-wiatrem",
+    "title": "RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”",
+    "author": "Donald McCaig",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "romans",
+    "description": "Premiera książki „RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”” autorstwa Donald McCaig. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/rhett-butler-kontynuacja-przeminelo-z-wiatrem/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-rhett-butler-kontynuacja-przeminelo-z-wiatrem-audiobook",
     "title": "RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM” - audiobook",
     "author": "Donald McCaig",
@@ -1468,6 +1488,16 @@
     "genre": "inne",
     "description": "Premiera książki „RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM” - audiobook” autorstwa Donald McCaig. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/rhett-butler-kontynuacja-przeminelo-z-wiatrem-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-scarlett-kontynuacja-przeminelo-z-wiatrem",
+    "title": "SCARLETT. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”",
+    "author": "Alexandra Ripley",
+    "releaseDate": "2026-10-28",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "romans",
+    "description": "Premiera książki „SCARLETT. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”” autorstwa Alexandra Ripley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem/"
   },
   {
     "id": "auto-wydawnictwo-albatros-scarlett-kontynuacja-przeminelo-z-wiatrem-audiobook",
@@ -1690,6 +1720,26 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie-2/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
+    "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie - audiobook",
+    "author": "Vex King",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie - audiobook” autorstwa Vex King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-apro",
+    "title": "NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie - ebook",
+    "author": "Vex King",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „NIE MOŻESZ WSZYSTKICH ZADOWOLIĆ. Odzyskaj swoją siłę w świecie obsesyjnie skupionym na aprobacie - ebook” autorstwa Vex King. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-mozesz-wszystkich-zadowolic-odzyskaj-swoja-sile-w-swiecie-obsesyjnie-skupionym-na-aprobacie-ebook/"
+  },
+  {
     "id": "auto-czwarta-strona-nieproszona",
     "title": "Nieproszona",
     "author": "Freida McFadden",
@@ -1710,6 +1760,16 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/po-polnocy/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-po-polnocy-audiobook",
+    "title": "PO PÓŁNOCY - audiobook",
+    "author": "Daphne du Maurier",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „PO PÓŁNOCY - audiobook” autorstwa Daphne du Maurier. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/po-polnocy-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-po-polnocy-ebook",
     "title": "PO PÓŁNOCY - ebook",
     "author": "Daphne du Maurier",
@@ -1728,26 +1788,6 @@
     "genre": "romans",
     "description": "Premiera książki „PTAKI CIERNISTYCH KRZEWÓW (wydanie specjalne)” autorstwa Colleen McCullough. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ptaki-ciernistych-krzewow-wydanie-specjalne/"
-  },
-  {
-    "id": "auto-wydawnictwo-albatros-rhett-butler-kontynuacja-przeminelo-z-wiatrem",
-    "title": "RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”",
-    "author": "Donald McCaig",
-    "releaseDate": "2026-11-12",
-    "publisher": "Wydawnictwo Albatros",
-    "genre": "romans",
-    "description": "Premiera książki „RHETT BUTLER. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”” autorstwa Donald McCaig. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/rhett-butler-kontynuacja-przeminelo-z-wiatrem/"
-  },
-  {
-    "id": "auto-wydawnictwo-albatros-scarlett-kontynuacja-przeminelo-z-wiatrem",
-    "title": "SCARLETT. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”",
-    "author": "Alexandra Ripley",
-    "releaseDate": "2026-11-12",
-    "publisher": "Wydawnictwo Albatros",
-    "genre": "romans",
-    "description": "Premiera książki „SCARLETT. KONTYNUACJA “PRZEMINĘŁO Z WIATREM”” autorstwa Alexandra Ripley. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
-    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/scarlett-kontynuacja-przeminelo-z-wiatrem/"
   },
   {
     "id": "auto-wydawnictwo-albatros-sekret-listu-ebook",
