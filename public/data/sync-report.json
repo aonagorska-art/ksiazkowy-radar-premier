@@ -1,72 +1,7 @@
 {
-  "updatedAt": "2026-11-03",
-  "checked": 34,
+  "updatedAt": "2026-11-04",
+  "checked": 47,
   "warnings": [
-    {
-      "id": "niezwykle-tarantula",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/tarantula",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-zagraniczne-grzech-i-odkupienie",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/grzech-i-odkupienie",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-zagraniczne-poszukiwane-schronienie",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/poszukiwane-schronienie",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-dom-kier",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/dom-kier",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-reckless-titan",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/reckless-titan",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-off-script",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/off-script",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-klamcy-tacy-jak-my",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/klamcy-tacy-jak-my",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-corka-smierci",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/corka-smierci",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-two-million-ways",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/two-million-ways",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-the-golden-raven",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/the-golden-raven",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-fairydale",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/fairydale",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-dziedzice",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/dziedzice",
-      "message": "This operation was aborted"
-    },
-    {
-      "id": "niezwykle-braving-the-storm",
-      "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/braving-the-storm",
-      "message": "This operation was aborted"
-    },
     {
       "id": "uroboros-ksiega-utraconych-godzin",
       "publisherUrl": "https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html",
