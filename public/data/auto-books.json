@@ -100,6 +100,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/lokatorka/"
   },
   {
+    "id": "auto-czwarta-strona-lokatorka-wyd-2",
+    "title": "Lokatorka (wyd.2)",
+    "author": "Freida McFadden",
+    "releaseDate": "2026-03-11",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Lokatorka (wyd.2)” autorstwa Freida McFadden. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/lokatorka-wyd-2/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda",
     "title": "Miasto i woda. Wodociągi i Kanalizacja w Poznaniu 1865-2025 - Oprawa twarda",
     "author": "Miron Urbaniak",
@@ -2088,6 +2098,36 @@
     "genre": "inne",
     "description": "Premiera książki „ROGI - audiobook” autorstwa Joe Hill. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/rogi-audiobook/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-te-niesmiertelne-prawdy-rachelle-raeta",
+    "title": "Te nieśmiertelne prawdy - Rachelle Raeta",
+    "author": "Rachelle Raeta",
+    "releaseDate": "2026-12-08",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Te nieśmiertelne prawdy - Rachelle Raeta” autorstwa Rachelle Raeta. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/te-niesmiertelne-prawdy"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-keep-that-forever-marta-kulczyna",
+    "title": "Keep That Forever - Marta Kulczyna",
+    "author": "Marta Kulczyna",
+    "releaseDate": "2026-12-09",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "young adult",
+    "description": "Premiera książki „Keep That Forever - Marta Kulczyna” autorstwa Marta Kulczyna. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/young-adult/keep-that-forever"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-love-the-way-you-lie-z-barwionymi-brzegami-joanna-chwistek",
+    "title": "Love the Way You Lie z barwionymi brzegami - Joanna Chwistek",
+    "author": "Joanna Chwistek",
+    "releaseDate": "2026-12-09",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Love the Way You Lie z barwionymi brzegami - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/love-the-way-you-lie"
   },
   {
     "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
