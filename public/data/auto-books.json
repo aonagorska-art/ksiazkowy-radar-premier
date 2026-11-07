@@ -1680,6 +1680,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/egzorcyzmy-wrozek"
   },
   {
+    "id": "auto-wydawnictwo-albatros-basnie-braci-grimm-dla-mlodziezy-i-doroslych-bez-cenzury-audiobook",
+    "title": "BAŚNIE BRACI GRIMM DLA MŁODZIEŻY I DOROSŁYCH BEZ CENZURY - audiobook",
+    "author": "Phillip Pullman",
+    "releaseDate": "2026-11-12",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "young adult",
+    "description": "Premiera książki „BAŚNIE BRACI GRIMM DLA MŁODZIEŻY I DOROSŁYCH BEZ CENZURY - audiobook” autorstwa Phillip Pullman. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/basnie-braci-grimm-dla-mlodziezy-i-doroslych-bez-cenzury-audiobook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-buszujacy-w-zbozu-i-inne-dziela-wydanie-jubileuszowe",
     "title": "BUSZUJĄCY W ZBOŻU i inne dzieła (wydanie jubileuszowe)",
     "author": "J.D. Salinger",
@@ -2128,6 +2138,16 @@
     "genre": "romans",
     "description": "Premiera książki „Love the Way You Lie z barwionymi brzegami - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/love-the-way-you-lie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-sekretny-raj-catherine-cowles",
+    "title": "Sekretny raj - Catherine Cowles",
+    "author": "Catherine Cowles",
+    "releaseDate": "2026-12-10",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Sekretny raj - Catherine Cowles” autorstwa Catherine Cowles. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/sekretny-raj"
   },
   {
     "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
