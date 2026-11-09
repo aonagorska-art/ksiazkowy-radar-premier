@@ -80,6 +80,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/venom-ii-w-otchlani-chaosu-edycja-ilustrowana-outlet"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-seryjni-mordercy-ii-rzeczpospolitej",
+    "title": "Seryjni mordercy II Rzeczpospolitej",
+    "author": "Kamil Janicki",
+    "releaseDate": "2026-02-25",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "literatura faktu",
+    "description": "Premiera książki „Seryjni mordercy II Rzeczpospolitej” autorstwa Kamil Janicki. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/seryjni-mordercy-ii-rzeczpospolitej/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-lurking-darkness-outlet-weronika-plota",
     "title": "Lurking Darkness - Outlet - Weronika Plota",
     "author": "Weronika Plota",
@@ -218,6 +228,16 @@
     "genre": "inne",
     "description": "Premiera książki „Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie” autorstwa Sophie Gilbert. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/girl-on-girl-jak-popkultura-zwrocila-kobiety-przeciw-sobie/"
+  },
+  {
+    "id": "auto-czwarta-strona-oddzial-d",
+    "title": "Oddział D",
+    "author": "Freida McFadden",
+    "releaseDate": "2026-05-06",
+    "publisher": "Czwarta Strona",
+    "genre": "inne",
+    "description": "Premiera książki „Oddział D” autorstwa Freida McFadden. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://czwartastrona.pl/produkt/oddzial-d/"
   },
   {
     "id": "auto-czwarta-strona-zamkniete-w-lodzie",
