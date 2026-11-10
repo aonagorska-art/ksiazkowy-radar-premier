@@ -1,77 +1,7 @@
 {
-  "updatedAt": "2026-11-09",
-  "checked": 33,
+  "updatedAt": "2026-11-10",
+  "checked": 47,
   "warnings": [
-    {
-      "id": "chlopiec-ktory-przegral-wojne",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/chlopiec-ktory-przegral-wojne/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "krol-smutek",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/krol-smutek/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "okruchy-dnia-2",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/okruchy-dnia-2/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "cienie-przeszlosci",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/cienie-przeszlosci/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "niecodzienne-przypadki-dennyego-vossa",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/niecodzienne-przypadki-dennyego-vossa/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "nie-opuszczaj-mnie",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/nie-opuszczaj-mnie/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "zaproszenie",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/zaproszenie/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "klara-i-slonce",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/klara-i-slonce/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "syn-nikogo",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/syn-nikogo/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "ale-mam-szczescie",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ale-mam-szczescie/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "ostatnia-corka",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatnia-corka/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "obsesja",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/obsesja/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "sciana-sekretow-wiem-kto-go-zabil",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/sciana-sekretow-wiem-kto-go-zabil/",
-      "message": "HTTP 403"
-    },
-    {
-      "id": "ostatni-intruz",
-      "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/ostatni-intruz/",
-      "message": "HTTP 403"
-    },
     {
       "id": "uroboros-ksiega-utraconych-godzin",
       "publisherUrl": "https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html",
