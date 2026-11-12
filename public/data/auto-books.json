@@ -580,6 +580,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/jej-chlopak/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-kapuscinski-non-fiction",
+    "title": "Kapuściński non-fiction",
+    "author": "Artur Domosławski",
+    "releaseDate": "2026-07-29",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "literatura faktu",
+    "description": "Premiera książki „Kapuściński non-fiction” autorstwa Artur Domosławski. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/kapuscinski-non-fiction/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-kronika-mojej-ziemskiej-wedrowki",
     "title": "Kronika mojej ziemskiej wędrówki",
     "author": "Daniel Mason",
@@ -2178,6 +2188,26 @@
     "genre": "romans",
     "description": "Premiera książki „Sekretny raj - Catherine Cowles” autorstwa Catherine Cowles. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/sekretny-raj"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-piesniarka-ze-smutkow-braidee-otto",
+    "title": "Pieśniarka ze Smutków - Braidee Otto",
+    "author": "Braidee Otto",
+    "releaseDate": "2026-12-15",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "fantasy",
+    "description": "Premiera książki „Pieśniarka ze Smutków - Braidee Otto” autorstwa Braidee Otto. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/fantasy/piesniarka-ze-smutkow"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-perfect-rivals-z-barwionymi-brzegami-nina-slowik",
+    "title": "Perfect Rivals z barwionymi brzegami - Nina Słowik",
+    "author": "Nina Słowik",
+    "releaseDate": "2026-12-16",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Perfect Rivals z barwionymi brzegami - Nina Słowik” autorstwa Nina Słowik. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/perfect-rivals"
   },
   {
     "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
