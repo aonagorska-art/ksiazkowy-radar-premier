@@ -130,6 +130,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/lokatorka-wyd-2/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-wszystko-co-wiem-o-milosci",
+    "title": "Wszystko, co wiem o miłości",
+    "author": "Dolly Alderton",
+    "releaseDate": "2026-03-11",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Wszystko, co wiem o miłości” autorstwa Dolly Alderton. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/wszystko-co-wiem-o-milosci/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda",
     "title": "Miasto i woda. Wodociągi i Kanalizacja w Poznaniu 1865-2025 - Oprawa twarda",
     "author": "Miron Urbaniak",
