@@ -420,6 +420,16 @@
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/pod-woda/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-rumunia-albastru-ciorba-i-wino-seria-podroznicza",
+    "title": "Rumunia. Albastru, ciorba i wino [Seria Podróżnicza]",
+    "author": "Agnieszka Krawczyk",
+    "releaseDate": "2026-05-20",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Rumunia. Albastru, ciorba i wino [Seria Podróżnicza]” autorstwa Agnieszka Krawczyk. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/rumunia-albastru-ciorba-i-wino-wyd-3/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-czarna-owca-medycyny-nieopowiedziana-historia-psychiatrii-wyd-3",
     "title": "Czarna owca medycyny. Nieopowiedziana historia psychiatrii (wyd.3)",
     "author": "Jeffrey A. Lieberman",
@@ -2258,6 +2268,16 @@
     "genre": "romans",
     "description": "Premiera książki „Zatraceni w sobie - J.T. Geissinger” autorstwa J.T. Geissinger. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/zatraceni-w-sobie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-imperium-grzechu-karolina-jurga",
+    "title": "Imperium Grzechu - Karolina Jurga",
+    "author": "Karolina Jurga",
+    "releaseDate": "2026-12-23",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Imperium Grzechu - Karolina Jurga” autorstwa Karolina Jurga. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/imperium-grzechu"
   },
   {
     "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
