@@ -130,6 +130,16 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/lokatorka-wyd-2/"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-portugalia-w-objeciach-oceanu",
+    "title": "Portugalia. W objęciach oceanu",
+    "author": "Anna Bittner",
+    "releaseDate": "2026-03-11",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Portugalia. W objęciach oceanu” autorstwa Anna Bittner. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/portugalia-w-objeciach-oceanu/"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-wszystko-co-wiem-o-milosci",
     "title": "Wszystko, co wiem o miłości",
     "author": "Dolly Alderton",
@@ -138,6 +148,16 @@
     "genre": "inne",
     "description": "Premiera książki „Wszystko, co wiem o miłości” autorstwa Dolly Alderton. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/wszystko-co-wiem-o-milosci/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-kiedy-zapadnie-zmierzch-outlet-magdalena-szponar",
+    "title": "Kiedy zapadnie zmierzch - Outlet - Magdalena Szponar",
+    "author": "Magdalena Szponar",
+    "releaseDate": "2026-03-18",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Kiedy zapadnie zmierzch - Outlet - Magdalena Szponar” autorstwa Magdalena Szponar. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/kiedy-zapadnie-zmierzch-outlet"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-miasto-i-woda-wodociagi-i-kanalizacja-w-poznaniu-1865-2025-oprawa-twarda",
@@ -220,6 +240,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/mr-incognito-outlet"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-teach-me-please-outlet-julia-brylewska",
+    "title": "Teach Me, Please - Outlet - Julia Brylewska",
+    "author": "Julia Brylewska",
+    "releaseDate": "2026-04-22",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Teach Me, Please - Outlet - Julia Brylewska” autorstwa Julia Brylewska. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/teach-me-please-outlet"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-sztuka-pozadania-pachnaca-roza-edycja-ilustrowana-outlet-julia-kubicka",
     "title": "Sztuka pożądania - pachnąca różą edycja ilustrowana - Outlet - Julia Kubicka",
     "author": "Julia Kubicka",
@@ -298,6 +328,16 @@
     "genre": "inne",
     "description": "Premiera książki „Zapiski o twoim zniknięciu” autorstwa Alison Espach. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zapiski-o-twoim-zniknieciu/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-fire-on-fire-outlet-agata-moore",
+    "title": "Fire on Fire - Outlet - Agata Moore",
+    "author": "Agata Moore",
+    "releaseDate": "2026-05-13",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Fire on Fire - Outlet - Agata Moore” autorstwa Agata Moore. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/fire-on-fire-outlet"
   },
   {
     "id": "auto-wydawnictwo-albatros-corka-z-kuby",
@@ -410,6 +450,26 @@
     "publisherUrl": "https://czwartastrona.pl/produkt/dobra-samarytanka/"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-fated-darkness-outlet-weronika-plota",
+    "title": "Fated Darkness - Outlet - Weronika Plota",
+    "author": "Weronika Plota",
+    "releaseDate": "2026-05-20",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Fated Darkness - Outlet - Weronika Plota” autorstwa Weronika Plota. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/fated-darkness-outlet"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-pocalunek-smierci-outlet-jessica-foks",
+    "title": "Pocałunek śmierci - Outlet - Jessica Foks",
+    "author": "Jessica Foks",
+    "releaseDate": "2026-05-20",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Pocałunek śmierci - Outlet - Jessica Foks” autorstwa Jessica Foks. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/pocalunek-smierci-outlet"
+  },
+  {
     "id": "auto-wydawnictwo-poznanskie-pod-woda",
     "title": "Pod wodą",
     "author": "Tara K. Menon",
@@ -428,6 +488,16 @@
     "genre": "inne",
     "description": "Premiera książki „Rumunia. Albastru, ciorba i wino [Seria Podróżnicza]” autorstwa Agnieszka Krawczyk. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/rumunia-albastru-ciorba-i-wino-wyd-3/"
+  },
+  {
+    "id": "auto-wydawnictwo-poznanskie-wyspy-owcze-seria-podroznicza",
+    "title": "Wyspy Owcze [Seria Podróżnicza]",
+    "author": "Maciej Brencz",
+    "releaseDate": "2026-05-20",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Wyspy Owcze [Seria Podróżnicza]” autorstwa Maciej Brencz. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/wyspy-owcze-seria-podroznicza-wydawnictwa-poznanskiego/"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-czarna-owca-medycyny-nieopowiedziana-historia-psychiatrii-wyd-3",
@@ -520,6 +590,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/red-shirt-edycja-ilustrowana-outlet"
   },
   {
+    "id": "auto-wydawnictwo-niezwykle-releasing-10-outlet-chloe-walsh",
+    "title": "Releasing 10 - Outlet - Chloe Walsh",
+    "author": "Chloe Walsh",
+    "releaseDate": "2026-06-25",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Releasing 10 - Outlet - Chloe Walsh” autorstwa Chloe Walsh. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/releasing-10-outlet"
+  },
+  {
     "id": "auto-czwarta-strona-deadline-na-milosc",
     "title": "Deadline na miłość",
     "author": "Natalia Sońska",
@@ -538,6 +618,16 @@
     "genre": "inne",
     "description": "Premiera książki „Poznań. Historie nieznane i zapomniane” autorstwa Filip Czekała. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/poznan-historie-nieznane-i-zapomniane/"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-venom-poczatek-konca-outlet-aleksandra-kondraciuk",
+    "title": "Venom. Początek końca - Outlet - Aleksandra Kondraciuk",
+    "author": "Aleksandra Kondraciuk",
+    "releaseDate": "2026-07-01",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Venom. Początek końca - Outlet - Aleksandra Kondraciuk” autorstwa Aleksandra Kondraciuk. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/new-adult-2/venom-poczatek-konca-outlet"
   },
   {
     "id": "auto-wydawnictwo-poznanskie-wyspa-latajacych-kobiet",
@@ -748,6 +838,16 @@
     "genre": "romans",
     "description": "Premiera książki „Tylko iluzja - wznowienie - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/tylko-iluzja-wznowienie"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-tylko-iluzja-wznowienie-outlet-joanna-chwistek",
+    "title": "Tylko iluzja - wznowienie - Outlet - Joanna Chwistek",
+    "author": "Joanna Chwistek",
+    "releaseDate": "2026-08-19",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Tylko iluzja - wznowienie - Outlet - Joanna Chwistek” autorstwa Joanna Chwistek. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/tylko-iluzja-wznowienie-outlet"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-tylko-zludzenie-wznowienie-joanna-chwistek",
@@ -2278,6 +2378,16 @@
     "genre": "romans",
     "description": "Premiera książki „Imperium Grzechu - Karolina Jurga” autorstwa Karolina Jurga. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/imperium-grzechu"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-taming-the-heart-elliott-rose",
+    "title": "Taming the Heart - Elliott Rose",
+    "author": "Elliott Rose",
+    "releaseDate": "2026-12-23",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Taming the Heart - Elliott Rose” autorstwa Elliott Rose. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/taming-the-heart"
   },
   {
     "id": "auto-wydawnictwo-albatros-mala-ksiega-nadziei-wedlug-malego-smoka",
