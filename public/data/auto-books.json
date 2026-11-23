@@ -220,6 +220,16 @@
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/po-prostu-emma-outlet"
   },
   {
+    "id": "auto-wydawnictwo-poznanskie-zostanmy-przyjaciolmi",
+    "title": "Zostańmy przyjaciółmi",
+    "author": "Gun-Britt Sundström",
+    "releaseDate": "2026-04-08",
+    "publisher": "Wydawnictwo Poznańskie",
+    "genre": "inne",
+    "description": "Premiera książki „Zostańmy przyjaciółmi” autorstwa Gun-Britt Sundström. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/zostanmy-przyjaciolmi-seria-dziel-pisarzy-skandynawskich/"
+  },
+  {
     "id": "auto-wydawnictwo-niezwykle-kosci-rzucone-korzeniem-splatane-outlet-mags-green",
     "title": "Kości rzucone korzeniem splątane - Outlet - Mags Green",
     "author": "Mags Green",
@@ -2378,6 +2388,16 @@
     "genre": "romans",
     "description": "Premiera książki „Imperium Grzechu - Karolina Jurga” autorstwa Karolina Jurga. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
     "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/imperium-grzechu"
+  },
+  {
+    "id": "auto-wydawnictwo-niezwykle-paint-it-all-red-s-t-abby",
+    "title": "Paint It All Red - S.T. Abby",
+    "author": "S.T. Abby",
+    "releaseDate": "2026-12-23",
+    "publisher": "Wydawnictwo NieZwykłe",
+    "genre": "romans",
+    "description": "Premiera książki „Paint It All Red - S.T. Abby” autorstwa S.T. Abby. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://wydawnictwoniezwykle.pl/romans-i-erotyka/paint-it-all-red"
   },
   {
     "id": "auto-wydawnictwo-niezwykle-taming-the-heart-elliott-rose",
