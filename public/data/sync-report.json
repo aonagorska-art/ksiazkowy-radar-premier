@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-23",
-  "checked": 47,
+  "updatedAt": "2026-11-24",
+  "checked": 38,
   "warnings": [
+    {
+      "id": "polskosc-prawdziwa-historia-tego-kim-jestesmy",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/polskosc-prawdziwa-historia-tego-kim-jestesmy/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "o-objetosci-czasu-i",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/o-objetosci-czasu-i/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "narod-do-zadan-specjalnych",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/narod-do-zadan-specjalnych/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "john-syn-johna",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/john-syn-johna/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "miasto-przyszlosci-jak-technologia-odmieni-nasze-zycie",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/miasto-przyszlosci-jak-technologia-odmieni-nasze-zycie/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "lumpy-co-sie-czai-w-second-handach",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/lumpy-co-sie-czai-w-second-handach/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "yesteryear",
+      "publisherUrl": "https://wydawnictwopoznanskie.pl/produkt/yesteryear/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "czwarta-one-nadal-krzycza",
+      "publisherUrl": "https://czwartastrona.pl/produkt/one-nadal-krzycza/",
+      "message": "This operation was aborted"
+    },
+    {
+      "id": "czwarta-ukochana-zona",
+      "publisherUrl": "https://czwartastrona.pl/produkt/ukochana-zona/",
+      "message": "This operation was aborted"
+    },
     {
       "id": "uroboros-ksiega-utraconych-godzin",
       "publisherUrl": "https://www.gwfoksal.pl/ksiega-utraconych-godzin-hayley-gelfuso-skua7959a5cc77fea823a2c.html",

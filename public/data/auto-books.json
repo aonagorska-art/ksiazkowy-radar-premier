@@ -2420,6 +2420,26 @@
     "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/mala-ksiega-nadziei-wedlug-malego-smoka/"
   },
   {
+    "id": "auto-wydawnictwo-albatros-winny-zawsze-jest-maz",
+    "title": "WINNY ZAWSZE JEST MĄŻ",
+    "author": "C.L. Taylor",
+    "releaseDate": "2027-01-13",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "thriller",
+    "description": "Premiera książki „WINNY ZAWSZE JEST MĄŻ” autorstwa C.L. Taylor. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/winny-zawsze-jest-maz/"
+  },
+  {
+    "id": "auto-wydawnictwo-albatros-winny-zawsze-jest-maz-ebook",
+    "title": "WINNY ZAWSZE JEST MĄŻ - ebook",
+    "author": "C.L. Taylor",
+    "releaseDate": "2027-01-13",
+    "publisher": "Wydawnictwo Albatros",
+    "genre": "inne",
+    "description": "Premiera książki „WINNY ZAWSZE JEST MĄŻ - ebook” autorstwa C.L. Taylor. Sprawdź oficjalną kartę wydawcy, aby przeczytać pełny opis.",
+    "publisherUrl": "https://www.wydawnictwoalbatros.com/ksiazki/winny-zawsze-jest-maz-ebook/"
+  },
+  {
     "id": "auto-wydawnictwo-albatros-orlando-uniwersum-siedmiu-siostr",
     "title": "ORLANDO. UNIWERSUM \"SIEDMIU SIÓSTR\"",
     "author": "Harry Whittaker, Lucinda Riley",
