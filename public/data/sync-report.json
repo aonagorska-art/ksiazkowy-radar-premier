@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "checked": 38,
   "warnings": [
     {
@@ -40,12 +40,12 @@
     {
       "id": "czwarta-one-nadal-krzycza",
       "publisherUrl": "https://czwartastrona.pl/produkt/one-nadal-krzycza/",
-      "message": "This operation was aborted"
+      "message": "fetch failed"
     },
     {
       "id": "czwarta-ukochana-zona",
       "publisherUrl": "https://czwartastrona.pl/produkt/ukochana-zona/",
-      "message": "This operation was aborted"
+      "message": "fetch failed"
     },
     {
       "id": "uroboros-ksiega-utraconych-godzin",
